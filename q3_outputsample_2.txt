@@ -1,0 +1,90 @@
+DISK CONTENT:
+PAGE 0: -94,-42,-124,-79
+PAGE 1: 7,24,82,-114
+PAGE 2: -38,98,-106,71
+PAGE 3: 30,99,-43,67
+RANDOM TRANSACTIONS:
+Read transaction for logical address: 0110
+Bringing page 1 into frame 0
+RAM: 0010 --> 82
+Write transaction for logical address: 0111
+Page 1 is in memory
+RAM: 0011 <-- 4
+Read transaction for logical address: 1001
+Bringing page 2 into frame 1
+RAM: 0101 --> 98
+Write transaction for logical address: 1000
+Page 2 is in memory
+RAM: 0100 <-- -24
+Read transaction for logical address: 0010
+Bringing page 0 into frame 2
+RAM: 1010 --> -124
+Write transaction for logical address: 0100
+Page 1 is in memory
+RAM: 0000 <-- 27
+Read transaction for logical address: 0000
+Page 0 is in memory
+RAM: 1000 --> -94
+Write transaction for logical address: 0101
+Page 1 is in memory
+RAM: 0001 <-- 87
+Read transaction for logical address: 0000
+Page 0 is in memory
+RAM: 1000 --> -94
+Write transaction for logical address: 0101
+Page 1 is in memory
+RAM: 0001 <-- 1
+Read transaction for logical address: 0101
+Page 1 is in memory
+RAM: 0001 --> 1
+Write transaction for logical address: 1001
+Page 2 is in memory
+RAM: 0101 <-- -119
+Read transaction for logical address: 0110
+Page 1 is in memory
+RAM: 0010 --> 82
+Write transaction for logical address: 1001
+Page 2 is in memory
+RAM: 0101 <-- 76
+Read transaction for logical address: 0101
+Page 1 is in memory
+RAM: 0001 --> 1
+Write transaction for logical address: 0110
+Page 1 is in memory
+RAM: 0010 <-- -65
+Read transaction for logical address: 0001
+Page 0 is in memory
+RAM: 1001 --> -42
+Write transaction for logical address: 0000
+Page 0 is in memory
+RAM: 1000 <-- 88
+Read transaction for logical address: 1100
+Bringing page 3 into frame 3
+RAM: 1100 --> 30
+Write transaction for logical address: 0010
+Page 0 is in memory
+RAM: 1010 <-- 56
+MEMORY CONTENT:
+0000: 27
+0001: 1
+0010: -65
+0011: 4
+0100: -24
+0101: 76
+0110: -106
+0111: 71
+1000: 88
+1001: -42
+1010: 56
+1011: -79
+1100: 30
+1101: 99
+1110: -43
+1111: 67
+DISK CONTENT:
+PAGE 0: 88,-42,56,-79
+PAGE 1: 27,1,-65,4
+PAGE 2: -24,76,-106,71
+PAGE 3: 30,99,-43,67
+NUM PAGE FAULTS: 4
+NUM BYTES TRANSFERRED: 32

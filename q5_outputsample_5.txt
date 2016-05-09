@@ -1,0 +1,4863 @@
+DISK CONTENT:
+PAGE 0: 105,27,13,-80,5,0,37,-58,41,32,103,33,7,-104,-9,-120,-64,126,80,23,66,-96,16,-118,18,42,70,100,8,-31,-17,-43,67,85,-58,104,-14,-97,105,-106,-116,-101,-28,87,26,-35,-9,-18,-88,-118,-24,-50,45,-101,-52,-105,-88,-63,-24,66,120,20,-34,-27,54,-33,-86,-70,102,47,23,-35,-118,-59,-74,-19,12,15,64,113,-101,23,-79,78,-84,-48,-30,-101,91,-110,8,-71,90,117,-64,-104,-4,-43,23,94,44,47,-127,85,-124,-90,73,110,-101,-37,3,-34,76,112,-55,123,-6,-16,26,4,24,68,66,73,45,-101,12,107,-32,87,25,93,16,-60,89,-118,-111,-76,96,99,41,94,48,21,67,-26,-11,-86,-106,12,19,47,-66,-109,-90,82,85,65,104,-22,70,-93,-87,33,99,-77,-8,-71,-4,85,43,20,61,-80,102,31,92,88,34,-67,-61,-40,-87,-46,-92,125,-124,75,-101,95,-20,-115,36,-123,69,104,122,111,-43,88,-61,51,119,64,-1,9,-120,38,69,9,63,-50,9,4,-67,-106,16,56,94,-118,-85,-46,-126,77,-127,23,48,46,47,52,-122,-1,26,92,-22,-17,-65,114,117,-70,4,-58,113,105,-78,-102,-83,-12,-64,-3,-110,9,-107,-108,32,43
+PAGE 1: -3,-49,-1,-125,94,51,-42,41,-26,52,111,-64,110,1,-27,-66,112,92,-43,-38,78,123,92,72,101,-88,-121,-39,77,-123,-34,-74,73,-34,78,-26,105,-47,-60,-116,67,62,60,-102,35,-83,110,89,-77,97,65,68,47,-37,-112,35,36,27,88,-28,43,-61,50,-11,-86,-38,-88,95,-75,-15,127,-15,-1,-92,33,83,-105,-83,50,57,-50,72,-44,-113,-18,-38,-6,96,19,125,91,61,108,-109,-52,-12,122,-60,15,64,43,83,-85,115,28,-91,6,-106,-87,107,-69,-101,21,-55,57,56,-28,42,68,40,-62,67,5,118,-81,-38,-44,-49,-89,80,-78,-89,-72,-4,-122,-71,82,-68,-64,86,-36,1,-3,-124,-81,-108,-25,35,-78,-65,-32,16,-81,13,-19,88,120,37,-107,-54,51,-120,-83,123,-51,-71,-58,60,-118,-84,-82,53,-44,76,-108,-70,23,95,-54,125,-71,-106,-111,-43,-48,76,7,-5,-80,64,-57,-65,-78,-74,-13,-100,-33,-90,44,3,100,78,-63,121,-35,-117,-89,52,-98,51,29,-117,-93,-118,-53,-106,14,-63,88,74,35,98,15,17,-49,-88,-78,98,-24,-51,56,54,-78,51,-36,-78,100,-111,10,-31,-26,27,101,-5,-40,55,116,126,-60,-62,-82,32,0,-31,98,-32
+PAGE 2: -57,58,-45,106,-28,-46,127,-31,-5,25,-72,-87,123,-125,-120,-57,104,22,-53,20,10,-15,-90,-77,68,93,38,104,93,126,93,109,-20,54,108,-52,85,-80,122,-65,-7,44,-79,-3,89,44,117,-40,-17,92,78,108,-86,-61,115,-15,82,57,-116,14,-79,61,-57,15,35,-124,66,-103,-64,-125,-31,100,27,25,43,-76,-40,-38,-25,-16,27,-5,-120,-114,112,-116,-54,-65,-89,87,-33,91,88,-51,-52,110,102,-92,-80,100,46,106,-29,74,4,-18,116,8,-10,-46,65,-22,-32,-76,0,27,-42,27,4,66,111,-101,-128,-65,19,127,-84,66,68,-125,-113,55,-84,108,-51,48,10,-47,86,-2,84,78,-30,-36,4,61,62,89,-98,106,-69,-54,-53,36,-39,78,-123,-48,-39,36,92,-108,-6,-15,-53,124,-14,13,-72,127,-77,-108,-70,12,42,24,-92,-69,36,60,72,-34,-24,-24,80,123,-127,-1,-73,-125,-39,-80,-27,65,9,-99,32,-127,-26,84,76,-94,-25,-8,-111,116,48,-76,-81,-92,67,29,-99,-99,113,110,-121,-120,51,30,-108,71,88,126,41,-85,-41,-105,-59,113,94,-103,57,-18,-48,-58,103,67,-52,11,105,-34,28,55,39,-11,-100,4,107,98,17,-93,110,-16,61,75
+PAGE 3: 6,-77,120,-36,-41,-124,71,-62,-90,24,-89,52,111,-50,-47,-33,-22,55,-103,10,-74,-53,33,63,-18,-27,10,-53,119,64,-65,2,108,94,-85,-46,-10,106,-25,-47,-18,-104,16,5,-2,-46,-88,94,-99,47,37,105,-36,38,-66,-62,116,33,108,-51,73,64,-80,44,-31,-126,109,71,-56,-101,23,-10,31,59,29,61,15,-41,-101,-51,-62,9,48,-46,114,-65,-118,0,85,-113,-34,-101,95,39,-103,-74,0,-59,-59,41,117,-78,-19,2,123,-126,16,-25,-64,25,-125,27,-20,54,7,48,17,-90,124,59,96,32,103,90,-103,-44,79,-10,-11,-26,94,-98,44,-38,98,-78,-7,-37,37,-98,-45,19,-83,54,-125,10,72,-59,-102,-9,-58,9,83,22,43,-92,-68,-42,23,60,3,103,-50,-44,-99,74,-52,3,-60,-96,-72,58,46,-120,38,-102,66,-63,97,73,-81,-95,14,72,100,-82,5,-63,-16,4,-117,72,-2,109,-96,-54,126,-44,54,-34,-69,-24,121,-71,91,36,-60,40,-70,-41,-31,-57,55,55,-94,-128,-69,-101,56,-89,64,-89,-52,-128,-47,13,-125,-47,7,126,-9,-88,-16,44,-98,99,9,-79,-113,22,-50,-80,-124,-45,-34,-44,39,29,-11,81,-63,3,30,47,-55,-55
+PAGE 4: -6,-49,42,63,117,47,3,-26,41,-70,44,81,-119,-46,122,83,53,-116,68,3,-110,21,115,85,-93,31,29,-117,-36,127,-124,-119,9,-108,-54,38,-118,111,-33,-7,98,-13,-38,-103,81,89,121,-92,-4,-52,-32,124,7,23,117,-78,-55,24,-122,-125,51,-57,-72,107,37,-66,56,93,11,48,62,53,73,100,29,-20,125,34,101,90,1,-112,-105,-123,52,-114,120,40,95,-47,-14,-48,-64,-27,71,45,-122,-75,27,82,65,-86,-106,-28,-63,-93,88,-51,73,-120,77,96,121,-110,11,-81,-44,-21,27,64,-45,-25,98,-54,-126,103,65,-32,-4,-78,-73,121,121,75,77,-94,96,6,92,121,-104,98,20,45,106,104,-112,59,-26,-112,-69,-127,-122,95,66,-57,94,12,127,-48,103,-33,55,28,-124,-79,60,104,-16,32,-112,50,112,-105,122,-2,50,3,87,-62,46,19,62,91,74,-53,-19,-94,-101,-32,25,111,60,-62,-116,96,55,-73,-79,-27,-15,26,-125,-41,124,59,-2,-91,-2,-121,52,-15,-78,-111,116,4,-22,71,-95,107,102,-27,57,113,7,0,58,82,-20,-112,44,111,22,-47,-68,-67,-119,66,44,26,84,118,-3,-122,61,25,-127,122,-94,70,92,17,79,73,2,-99
+PAGE 5: -29,104,-83,114,0,-7,120,117,-60,-57,4,37,9,-64,71,-15,-118,30,-81,70,-33,24,-11,-122,-93,39,-124,48,-53,48,-100,-107,4,87,-7,31,83,108,-17,-47,-106,-19,-125,17,-109,-73,104,-28,76,104,-31,-80,106,-26,-103,-21,-111,-92,79,3,-80,14,-94,85,45,93,12,-68,-53,118,-15,93,-37,45,108,-2,97,125,116,124,26,-23,58,-58,-9,82,21,56,4,11,69,28,-69,-116,109,-19,58,69,-64,8,-47,15,-13,59,22,-45,15,-90,-48,-90,-111,20,-57,74,-31,-14,95,79,-36,-126,10,71,85,-53,13,4,10,-119,-104,94,90,-98,-46,6,-93,-16,125,-71,-110,15,-29,-118,-7,111,-5,1,32,-120,-61,-96,37,59,-93,-67,93,-10,-86,-123,-51,-73,-56,28,87,-69,-65,127,4,-21,124,81,-97,45,-63,82,73,59,-78,84,-65,-42,5,-91,-50,-115,68,-9,26,-67,-7,114,-38,109,-32,5,-101,-19,-115,127,-117,98,47,114,-55,-100,51,-102,-76,-13,-69,-80,-59,17,76,39,100,99,85,26,-42,119,71,-90,11,62,9,-15,98,62,-74,-120,-114,-126,-21,-5,-120,123,39,-96,-69,-40,58,82,-99,-98,-124,68,-63,-47,-77,53,87,127,68,43,13,-39
+PAGE 6: 2,-107,-115,-101,-73,71,-97,-78,-75,74,-10,-24,47,7,71,-65,39,58,-40,92,-36,95,-10,-9,47,91,-26,-77,-125,-121,-93,-12,-101,102,24,50,-112,79,-100,107,-55,120,-78,114,3,38,75,-41,-51,116,12,-67,70,39,106,-97,12,-118,101,-24,-2,-110,99,92,59,-57,-23,78,71,-26,-115,113,21,113,-91,-99,-5,-25,84,-73,75,-80,-126,51,-6,-89,102,-87,-123,105,-51,45,-111,-32,92,19,91,-125,66,36,101,-31,-97,122,-69,-47,123,-64,-107,61,-94,75,22,35,-79,-80,-13,114,-124,68,69,-45,-106,122,123,-74,120,28,9,-95,112,-125,119,-110,-54,67,-109,-98,14,-102,-11,28,-88,-104,117,-62,-68,78,112,-47,-91,33,-19,45,-37,80,-32,-106,-113,-75,102,126,-99,51,-114,-61,-4,-45,-90,-61,30,105,96,18,40,-101,4,-55,122,80,117,9,116,100,-111,-105,53,-43,73,88,119,-113,40,64,-47,15,-64,-61,-40,54,-76,103,14,-50,-64,96,55,-14,50,-115,-84,-29,71,-78,-112,-41,59,-32,-82,63,33,-50,-117,-45,25,-112,-123,127,-91,-125,86,72,-81,14,-126,106,35,-78,-39,105,-61,-89,111,-43,-12,24,-19,0,103,84,62,-81,58,1,116,-107
+PAGE 7: -106,-85,97,46,-38,-63,-36,66,62,-116,19,6,60,88,17,-17,78,106,28,-115,-55,-76,-7,14,-123,87,-87,47,71,-8,37,-90,16,-62,-7,32,-127,71,-93,-95,59,-58,-128,-6,-31,28,-121,-16,-65,-91,12,47,-39,-85,-97,59,123,-50,-53,48,95,16,107,-101,-113,-93,-85,101,-65,52,112,-111,53,71,0,-51,-117,-94,43,-79,-41,-64,4,-66,125,103,54,46,32,90,-109,-59,-127,-27,102,69,42,-65,-14,-87,61,93,2,-102,-17,-96,-91,37,-39,84,116,-100,-89,30,57,111,-49,56,-25,25,-62,97,55,-64,10,-53,-30,-71,-112,113,-51,-19,-88,-76,-70,98,-33,-98,-1,-56,13,-23,21,62,25,-43,41,42,45,13,49,-46,-95,-19,119,40,64,-44,95,-109,-126,-93,13,104,50,-53,86,117,-80,72,90,-45,-115,110,94,25,103,-77,-50,90,-68,50,126,-45,114,81,-19,-105,-53,108,49,0,86,-72,-82,111,14,90,-50,-87,-64,-76,78,56,99,-17,-112,62,-94,-104,-51,-47,-29,44,-2,73,-36,-90,-78,-65,54,-127,34,-60,118,-52,-118,-25,-9,-33,-91,118,-93,-86,-118,116,-66,-96,-28,38,44,26,-75,107,-52,-104,53,117,-2,23,-11,-71,115,55,103,93
+PAGE 8: -33,67,9,59,-86,77,72,-71,-98,21,-6,114,111,-93,9,18,62,122,117,-99,-26,33,-10,98,-25,-7,49,-47,84,55,-35,19,-93,-88,-96,115,103,-62,57,-86,44,71,-68,-31,109,84,85,-38,99,-18,-111,-47,101,-122,-80,-32,29,-73,45,22,19,-125,-36,-41,103,-39,69,80,116,88,53,-103,125,9,-113,-106,81,45,-8,-10,-5,53,-60,-74,-63,-85,82,-82,23,-118,-19,116,-53,-33,26,124,-27,-121,34,-111,-102,1,-120,-67,-14,-127,-103,45,-37,52,-33,45,-71,-128,12,62,51,-61,35,114,-61,7,62,-8,-4,-51,99,4,107,7,45,-37,-90,115,58,-33,-94,-29,-64,-64,107,-1,34,73,38,-91,103,11,59,126,80,-87,1,122,-112,-110,11,18,39,121,91,107,123,-80,-23,36,-36,-35,-39,-15,-16,112,-120,63,38,-2,28,-89,-91,-119,28,83,25,-43,37,10,57,18,-65,-52,31,-18,-87,-11,107,-5,-71,88,1,34,-109,82,2,126,93,-26,-59,22,75,-114,26,-89,94,-47,-44,112,121,-69,87,-34,-59,35,-106,48,96,-43,-4,-109,-18,59,-58,-42,5,-79,40,-43,55,-44,60,-41,-73,-116,35,126,76,6,56,-47,-72,53,-10,-72,46,122,-3,-33
+PAGE 9: 29,53,-19,-9,101,17,-23,96,21,-80,18,81,8,25,-99,-115,55,117,-70,-47,116,-15,-106,-23,-107,95,36,10,-20,56,-15,-119,-110,-103,-127,39,-127,110,77,-23,-35,-84,37,98,-25,-60,0,50,-8,-127,-111,83,42,9,15,24,50,-55,29,39,88,39,-46,-64,5,-112,5,58,-91,-121,-6,-8,44,81,127,120,-114,72,-44,0,-7,106,113,30,4,-49,-51,-123,-87,-26,-63,-97,-81,83,-122,10,-50,-84,100,-58,-69,-116,-26,20,4,-10,-90,84,-37,101,-36,2,-115,-52,-45,-84,95,116,-27,92,-121,26,-23,-37,-112,-117,29,-13,-36,-39,116,-83,-80,21,33,0,29,-42,24,87,79,-80,-39,-120,-36,-35,-13,-40,-39,-114,97,17,76,-112,96,57,127,100,92,-123,49,-11,-53,44,-11,-98,46,-53,97,16,21,2,-110,-99,-21,-70,97,119,-49,32,-43,-36,-115,63,-20,-26,-106,106,102,-44,111,-23,98,-65,58,98,0,22,-89,31,110,122,92,36,-19,37,21,126,109,105,-46,125,-6,25,-95,45,81,-85,67,13,15,90,75,-16,24,26,71,-111,-55,117,105,71,23,67,-59,-114,-50,-12,-124,28,-93,34,38,-99,-76,-29,61,-45,-42,-94,-109,79,-85,-75,115,-32
+PAGE 10: -111,-106,63,-115,77,115,-10,70,-29,100,-47,-55,72,41,-125,79,122,-90,-33,42,-78,-83,123,101,-51,-27,-93,1,78,49,56,-17,31,84,-62,-93,15,58,-60,2,-115,-24,-80,-5,-112,-90,38,-124,-66,-45,-123,47,102,-58,105,-54,-5,-55,85,-96,112,121,-100,111,-88,46,-47,68,-110,56,-99,-49,-126,-9,89,18,-127,-12,51,118,16,-5,-87,52,-120,107,62,3,23,-99,-59,-67,109,5,117,-26,36,61,-51,110,-32,-4,91,-2,102,-66,-96,80,25,-80,-57,-122,97,-59,-116,2,-109,-18,-93,-112,78,47,-18,-86,6,16,120,-31,35,-96,-13,-107,6,33,-106,-21,-113,31,121,-112,-6,-117,-82,-122,123,106,9,78,71,-23,-43,16,-62,45,67,109,-33,31,69,-91,68,-96,53,88,-107,71,8,-36,-120,53,-52,-25,-22,-32,-116,6,120,55,65,-101,37,-126,-128,-37,6,77,76,-38,-1,31,-91,-124,-65,28,-122,-49,35,40,-43,118,-112,-91,-117,-32,83,-50,55,-95,73,101,-63,-18,-10,-64,-109,43,-92,67,-117,42,82,8,-123,-7,-36,73,-10,-67,-56,-85,-23,-2,25,-62,-20,31,-61,-22,-31,30,48,63,29,-92,69,-13,124,123,-105,-108,54,116,42,22,109,102
+PAGE 11: 122,-65,59,32,-94,25,24,-123,73,125,-11,43,109,-124,-3,-63,70,-103,54,-26,-32,32,120,20,-47,41,-109,69,-70,-108,118,-67,-119,-41,121,-20,81,83,-68,44,124,43,-59,-7,-89,113,-10,-120,-10,-106,-82,-46,91,-112,-21,117,-74,-66,-10,5,-102,53,2,40,-112,92,104,-28,123,33,-5,68,-64,21,67,18,106,113,37,-78,-128,-63,56,71,-116,91,-1,37,-97,26,-67,-37,70,-7,-80,48,40,-120,49,107,73,-112,-18,104,87,-36,28,102,-43,27,-97,89,119,110,-54,-76,16,20,-29,-80,89,27,-70,-108,-97,-89,97,-33,126,81,-95,64,-24,91,81,17,57,-87,62,93,-85,98,-64,-102,67,118,-32,25,-59,119,115,24,-93,-113,-14,117,104,-40,52,-83,-43,11,-128,-36,10,109,123,2,-113,50,47,73,-48,-95,-102,57,-96,58,85,114,78,53,50,-70,-77,-31,-91,-26,-54,-117,-39,52,2,85,50,-26,98,101,-63,-55,57,-115,-7,36,-49,63,-95,122,29,-3,-128,-128,-109,-64,-63,-67,-78,-111,-14,-95,-48,82,-92,9,-18,83,-8,-19,43,60,-119,13,73,-49,-114,120,87,-34,58,121,-98,-123,-98,-48,62,55,87,114,59,-128,-97,121,-20,7,51,46
+PAGE 12: 24,71,102,30,-94,-22,-91,-53,-122,-126,-55,72,-71,26,24,0,-37,24,-82,60,62,85,-44,-99,-32,8,-44,-69,112,23,-97,57,16,99,-16,21,-121,40,-52,-63,-22,-26,124,56,108,-34,113,-96,-33,-66,80,4,72,121,123,-92,-91,-20,-56,-4,22,88,-128,88,-3,0,-92,121,-95,56,50,36,36,5,58,98,-118,63,-111,-121,-119,-39,85,-63,81,-71,111,-100,-125,12,-68,92,121,115,66,-3,24,29,104,27,55,-59,-84,118,23,-111,-76,-3,80,-15,66,92,14,11,-11,30,21,7,115,-44,-26,-13,-80,97,-103,-34,-114,65,47,37,95,-65,-105,-52,-38,-44,89,-100,-15,-106,-94,68,24,64,117,108,-18,62,-108,100,-108,17,48,51,-56,35,91,98,-51,-80,35,23,68,-91,-110,-99,50,54,-75,24,-86,120,-124,-72,-105,-22,25,20,11,37,-113,40,-64,-53,52,-118,55,-38,7,52,-3,113,106,-17,-36,-5,-2,-29,1,67,-86,42,-117,-18,-94,26,-65,-74,43,-20,-73,86,15,83,100,-3,-69,-30,44,-50,-56,-99,104,-115,-114,103,-36,77,51,-59,-78,31,-23,75,62,47,-55,55,121,101,46,-39,-76,25,-33,-15,-102,-82,3,27,38,88,48,55,-11,88
+PAGE 13: -85,4,-51,-56,-113,12,-24,43,-38,61,99,17,107,28,-23,73,121,48,18,98,13,-107,-116,64,58,-96,-121,-45,-79,-83,18,-20,-11,117,-33,-9,-14,103,66,19,24,-52,-27,41,32,-27,-84,-114,-71,126,-10,-116,109,-45,-4,-95,7,-39,123,99,37,29,-118,-38,48,67,-74,45,66,-76,-32,-75,-16,94,89,-107,31,31,122,69,108,-98,-26,122,22,-33,50,2,2,96,101,-5,70,-8,-81,91,54,-53,-120,97,-23,89,-19,94,-25,93,68,121,-55,-72,-75,-4,102,30,-118,121,-30,41,-80,75,55,14,110,92,54,-127,-70,113,117,-110,55,-75,82,-71,-54,119,49,98,-123,61,31,-126,-23,-88,80,-8,37,-78,-14,25,103,-84,-88,-43,-4,-96,-7,-47,62,-101,110,-31,43,51,111,-89,-80,102,58,57,60,-103,71,61,57,-54,36,-105,71,127,40,-50,99,-75,-56,107,28,126,-9,116,22,23,55,-77,28,-108,54,-6,-52,-113,33,-73,-32,-47,11,63,57,-40,-77,45,90,33,-84,-14,24,40,0,-60,28,-102,123,-115,47,-55,-6,-13,18,6,31,37,57,-128,56,89,113,-10,89,-97,-56,40,31,93,32,-57,104,-91,-62,91,45,90,-7,54,54,-112,9,93
+PAGE 14: 116,15,71,-1,-88,-27,86,34,-122,-72,-29,115,-60,-7,-48,-72,97,43,76,-60,-116,106,-111,65,32,77,78,-10,-68,-117,-32,88,119,-49,-79,32,-47,-1,101,123,69,-52,64,27,1,-66,13,120,-60,73,-81,29,10,49,-113,114,29,73,-26,-85,5,1,-55,114,104,-118,106,13,-95,10,101,-38,100,-4,22,-107,107,16,61,-5,104,-85,-67,71,27,103,112,94,93,66,43,11,-18,75,62,-97,-63,-95,44,-27,-97,76,-113,-112,5,4,44,73,-128,58,92,-62,-64,107,92,17,-72,30,-61,-90,-116,-1,3,123,-74,-101,-27,-2,-112,80,-98,-63,89,-88,9,68,0,-92,-104,-12,98,-85,-47,-110,20,5,55,58,33,66,46,-18,75,116,-24,-126,-127,123,-121,7,-9,-55,50,47,-32,-104,-112,-83,95,37,-72,-125,87,-120,-90,-65,0,-41,20,33,90,-40,-78,-25,-81,-21,54,19,-40,-22,-127,2,-86,-89,-63,27,74,62,57,26,-32,-85,-107,72,74,-51,49,-100,-13,-4,-24,75,-87,89,33,62,-64,2,20,98,39,6,53,65,116,-88,45,30,47,122,-105,90,118,88,-63,81,71,-3,-42,-65,-79,116,-106,72,26,20,53,0,-5,114,95,53,62,63,44,54
+PAGE 15: -78,-66,-76,75,45,28,-37,-32,-56,59,-73,120,3,99,-70,51,-46,-108,-94,-118,-5,-97,7,-102,-47,-84,-121,57,-47,37,6,-8,-42,110,-61,8,101,30,-74,-81,-79,24,66,-70,81,-31,-116,29,64,-45,79,119,96,100,-50,8,38,66,70,116,-8,-65,92,-111,-27,125,101,100,-5,-15,29,100,-66,-10,-125,-114,-82,83,-47,-4,-67,-37,-38,-58,-96,43,20,-30,-46,32,-113,-7,-80,114,48,-25,-6,-17,-83,-106,-103,-37,57,20,-77,-124,-114,65,-74,126,61,26,91,-10,-45,-66,-42,-57,-32,-5,35,-99,60,-56,87,122,-105,-19,-63,86,-80,43,-20,95,16,-10,7,75,-75,-64,-84,-112,24,91,2,-66,-50,-114,97,-57,-128,-1,89,76,66,27,52,-13,-77,88,-4,111,-27,61,38,-64,-59,-64,99,-82,3,-20,-9,49,-71,68,-19,38,-30,69,100,57,-33,-12,41,-81,112,-117,-19,113,50,-10,2,20,21,-28,123,-122,125,-125,38,-62,-128,62,-97,37,-123,-98,45,-43,-78,108,70,-126,-93,-32,59,-84,19,21,14,44,-45,97,59,116,31,-96,-92,34,49,61,-28,-22,42,-117,-44,121,20,-53,37,-61,1,77,52,64,-123,-29,-84,-38,-11,115,-119,-80,-65,-43
+RANDOM TRANSACTIONS:
+Read transaction for logical address: 111100111111
+Bringing page 15 into frame 0
+RAM: 00000111111 --> -111
+Write transaction for logical address: 011111011101
+Bringing page 7 into frame 1
+RAM: 00111011101 <-- -116
+Read transaction for logical address: 110110001001
+Bringing page 13 into frame 2
+RAM: 01010001001 --> 98
+Write transaction for logical address: 000011101100
+Bringing page 0 into frame 3
+RAM: 01111101100 <-- 30
+Read transaction for logical address: 111110110001
+Page 15 is in memory
+RAM: 00010110001 --> 38
+Write transaction for logical address: 100011111000
+Bringing page 8 into frame 4
+RAM: 10011111000 <-- 103
+Read transaction for logical address: 111010010000
+Bringing page 14 into frame 5
+RAM: 10110010000 --> 20
+Write transaction for logical address: 000101100011
+Bringing page 1 into frame 6
+RAM: 11001100011 <-- -36
+Read transaction for logical address: 010101001111
+Bringing page 5 into frame 7
+RAM: 11101001111 --> 124
+Write transaction for logical address: 111000000111
+Page 14 is in memory
+RAM: 10100000111 <-- 115
+Read transaction for logical address: 000011100001
+Page 0 is in memory
+RAM: 01111100001 --> 23
+Write transaction for logical address: 001111000110
+Evicting page 15 (NOT DIRTY)
+Bringing page 3 into frame 0
+RAM: 00011000110 <-- 12
+Read transaction for logical address: 100001010000
+Page 8 is in memory
+RAM: 10001010000 --> -5
+Write transaction for logical address: 011010011010
+Evicting page 7
+Bringing page 6 into frame 1
+RAM: 00110011010 <-- 21
+Read transaction for logical address: 010000001110
+Evicting page 13 (NOT DIRTY)
+Bringing page 4 into frame 2
+RAM: 01000001110 --> 122
+Write transaction for logical address: 001100010100
+Page 3 is in memory
+RAM: 00000010100 <-- 43
+Read transaction for logical address: 110111110110
+Evicting page 0
+Bringing page 13 into frame 3
+RAM: 01111110110 --> -62
+Write transaction for logical address: 011111100010
+Evicting page 8
+Bringing page 7 into frame 4
+RAM: 10011100010 <-- 0
+Read transaction for logical address: 101101101111
+Evicting page 14
+Bringing page 11 into frame 5
+RAM: 10101101111 --> 89
+Write transaction for logical address: 011011100001
+Page 6 is in memory
+RAM: 00111100001 <-- -85
+Read transaction for logical address: 101001111110
+Evicting page 1
+Bringing page 10 into frame 6
+RAM: 11001111110 --> 120
+Write transaction for logical address: 110000011111
+Evicting page 5 (NOT DIRTY)
+Bringing page 12 into frame 7
+RAM: 11100011111 <-- -116
+Read transaction for logical address: 000010111001
+Evicting page 3
+Bringing page 0 into frame 0
+RAM: 00010111001 --> 125
+Write transaction for logical address: 001101100101
+Evicting page 6
+Bringing page 3 into frame 1
+RAM: 00101100101 <-- -98
+Read transaction for logical address: 001010001000
+Evicting page 4 (NOT DIRTY)
+Bringing page 2 into frame 2
+RAM: 01010001000 --> 10
+Write transaction for logical address: 010100100010
+Evicting page 13 (NOT DIRTY)
+Bringing page 5 into frame 3
+RAM: 01100100010 <-- -37
+Read transaction for logical address: 001000001010
+Page 2 is in memory
+RAM: 01000001010 --> -72
+Write transaction for logical address: 011010000110
+Evicting page 7
+Bringing page 6 into frame 4
+RAM: 10010000110 <-- -76
+Read transaction for logical address: 000100100100
+Evicting page 11 (NOT DIRTY)
+Bringing page 1 into frame 5
+RAM: 10100100100 --> 105
+Write transaction for logical address: 010111101111
+Page 5 is in memory
+RAM: 01111101111 <-- -16
+Read transaction for logical address: 111110011000
+Evicting page 10 (NOT DIRTY)
+Bringing page 15 into frame 6
+RAM: 11010011000 --> 89
+Write transaction for logical address: 111101001111
+Page 15 is in memory
+RAM: 11001001111 <-- -50
+Read transaction for logical address: 100100011000
+Evicting page 12
+Bringing page 9 into frame 7
+RAM: 11100011000 --> -107
+Write transaction for logical address: 000011000010
+Page 0 is in memory
+RAM: 00011000010 <-- 82
+Read transaction for logical address: 000100010101
+Page 1 is in memory
+RAM: 10100010101 --> 123
+Write transaction for logical address: 110000101010
+Evicting page 0
+Bringing page 12 into frame 0
+RAM: 00000101010 <-- -61
+Read transaction for logical address: 000101010110
+Page 1 is in memory
+RAM: 10101010110 --> -6
+Write transaction for logical address: 000100110111
+Page 1 is in memory
+RAM: 10100110111 <-- 73
+Read transaction for logical address: 010000101111
+Evicting page 3
+Bringing page 4 into frame 1
+RAM: 00100101111 --> -92
+Write transaction for logical address: 110001011100
+Page 12 is in memory
+RAM: 00001011100 <-- -97
+Read transaction for logical address: 101101010001
+Evicting page 2 (NOT DIRTY)
+Bringing page 11 into frame 2
+RAM: 01001010001 --> -63
+Write transaction for logical address: 000001011000
+Evicting page 5
+Bringing page 0 into frame 3
+RAM: 01101011000 <-- -31
+Read transaction for logical address: 000010101111
+Page 0 is in memory
+RAM: 01110101111 --> 31
+Write transaction for logical address: 000100101010
+Page 1 is in memory
+RAM: 10100101010 <-- -98
+Read transaction for logical address: 101101000111
+Page 11 is in memory
+RAM: 01001000111 --> 68
+Write transaction for logical address: 100110110101
+Page 9 is in memory
+RAM: 11110110101 <-- 39
+Read transaction for logical address: 000111111111
+Page 1 is in memory
+RAM: 10111111111 --> -32
+Write transaction for logical address: 000101010010
+Page 1 is in memory
+RAM: 10101010010 <-- -4
+Read transaction for logical address: 011111101111
+Evicting page 6
+Bringing page 7 into frame 4
+RAM: 10011101111 --> 38
+Write transaction for logical address: 100100111000
+Page 9 is in memory
+RAM: 11100111000 <-- 28
+Read transaction for logical address: 101110011010
+Page 11 is in memory
+RAM: 01010011010 --> -14
+Write transaction for logical address: 000010010110
+Page 0 is in memory
+RAM: 01110010110 <-- -78
+Read transaction for logical address: 011110011101
+Page 7 is in memory
+RAM: 10010011101 --> -44
+Write transaction for logical address: 100001010100
+Evicting page 1
+Bringing page 8 into frame 5
+RAM: 10101010100 <-- 111
+Read transaction for logical address: 010010000011
+Page 4 is in memory
+RAM: 00110000011 --> 121
+Write transaction for logical address: 101000111101
+Evicting page 15
+Bringing page 10 into frame 6
+RAM: 11000111101 <-- 39
+Read transaction for logical address: 011010010010
+Evicting page 9
+Bringing page 6 into frame 7
+RAM: 11110010010 --> -68
+Write transaction for logical address: 010010111101
+Page 4 is in memory
+RAM: 00110111101 <-- -122
+Read transaction for logical address: 000100010111
+Evicting page 12
+Bringing page 1 into frame 0
+RAM: 00000010111 --> 72
+Write transaction for logical address: 110011100010
+Evicting page 4
+Bringing page 12 into frame 1
+RAM: 00111100010 <-- 54
+Read transaction for logical address: 101011100101
+Page 10 is in memory
+RAM: 11011100101 --> -85
+Write transaction for logical address: 010111110001
+Evicting page 11 (NOT DIRTY)
+Bringing page 5 into frame 2
+RAM: 01011110001 <-- -59
+Read transaction for logical address: 001011000010
+Evicting page 0
+Bringing page 2 into frame 3
+RAM: 01111000010 --> 9
+Write transaction for logical address: 101101111110
+Evicting page 7 (NOT DIRTY)
+Bringing page 11 into frame 4
+RAM: 10001111110 <-- 50
+Read transaction for logical address: 010001011110
+Evicting page 8
+Bringing page 4 into frame 5
+RAM: 10101011110 --> 71
+Write transaction for logical address: 000001001111
+Evicting page 10
+Bringing page 0 into frame 6
+RAM: 11001001111 <-- 35
+Read transaction for logical address: 100101000011
+Evicting page 6 (NOT DIRTY)
+Bringing page 9 into frame 7
+RAM: 11101000011 --> 58
+Write transaction for logical address: 011101101001
+Evicting page 1 (NOT DIRTY)
+Bringing page 7 into frame 0
+RAM: 00001101001 <-- -123
+Read transaction for logical address: 100100101001
+Page 9 is in memory
+RAM: 11100101001 --> -84
+Write transaction for logical address: 001100111000
+Evicting page 12
+Bringing page 3 into frame 1
+RAM: 00100111000 <-- -97
+Read transaction for logical address: 001010111011
+Page 2 is in memory
+RAM: 01110111011 --> -1
+Write transaction for logical address: 010100000000
+Page 5 is in memory
+RAM: 01000000000 <-- 79
+Read transaction for logical address: 001101011011
+Page 3 is in memory
+RAM: 00101011011 --> -101
+Write transaction for logical address: 101110011000
+Page 11 is in memory
+RAM: 10010011000 <-- -11
+Read transaction for logical address: 001001011100
+Page 2 is in memory
+RAM: 01101011100 --> 88
+Write transaction for logical address: 001100001010
+Page 3 is in memory
+RAM: 00100001010 <-- 55
+Read transaction for logical address: 010100110110
+Page 5 is in memory
+RAM: 01000110110 --> -103
+Write transaction for logical address: 001001001010
+Page 2 is in memory
+RAM: 01101001010 <-- -80
+Read transaction for logical address: 100101111010
+Page 9 is in memory
+RAM: 11101111010 --> -23
+Write transaction for logical address: 000011001011
+Page 0 is in memory
+RAM: 11011001011 <-- -93
+Read transaction for logical address: 101001101111
+Evicting page 5
+Bringing page 10 into frame 2
+RAM: 01001101111 --> -122
+Write transaction for logical address: 101010010011
+Page 10 is in memory
+RAM: 01010010011 <-- 115
+Read transaction for logical address: 001110111111
+Page 3 is in memory
+RAM: 00110111111 --> 72
+Write transaction for logical address: 000111000001
+Evicting page 2
+Bringing page 1 into frame 3
+RAM: 01111000001 <-- -63
+Read transaction for logical address: 010011111001
+Page 4 is in memory
+RAM: 10111111001 --> 70
+Write transaction for logical address: 000000000100
+Page 0 is in memory
+RAM: 11000000100 <-- 61
+Read transaction for logical address: 010101111111
+Evicting page 11
+Bringing page 5 into frame 4
+RAM: 10001111111 --> -119
+Write transaction for logical address: 011110110000
+Page 7 is in memory
+RAM: 00010110000 <-- 75
+Read transaction for logical address: 100001010011
+Evicting page 4 (NOT DIRTY)
+Bringing page 8 into frame 5
+RAM: 10101010011 --> -74
+Write transaction for logical address: 111110101111
+Evicting page 0
+Bringing page 15 into frame 6
+RAM: 11010101111 <-- 18
+Read transaction for logical address: 111001110010
+Evicting page 9 (NOT DIRTY)
+Bringing page 14 into frame 7
+RAM: 11101110010 --> 92
+Write transaction for logical address: 110100010010
+Evicting page 7
+Bringing page 13 into frame 0
+RAM: 00000010010 <-- -125
+Read transaction for logical address: 001101100101
+Page 3 is in memory
+RAM: 00101100101 --> -98
+Write transaction for logical address: 111000011100
+Page 14 is in memory
+RAM: 11100011100 <-- -21
+Read transaction for logical address: 011011011011
+Evicting page 3
+Bringing page 6 into frame 1
+RAM: 00111011011 --> 63
+Write transaction for logical address: 010000110110
+Evicting page 10
+Bringing page 4 into frame 2
+RAM: 01000110110 <-- 56
+Read transaction for logical address: 010100110001
+Page 5 is in memory
+RAM: 10000110001 --> 104
+Write transaction for logical address: 101010110010
+Evicting page 1
+Bringing page 10 into frame 3
+RAM: 01110110010 <-- -72
+Read transaction for logical address: 101010101010
+Page 10 is in memory
+RAM: 01110101010 --> -52
+Write transaction for logical address: 101000000010
+Page 10 is in memory
+RAM: 01100000010 <-- -2
+Read transaction for logical address: 101100010010
+Evicting page 5 (NOT DIRTY)
+Bringing page 11 into frame 4
+RAM: 10000010010 --> 54
+Write transaction for logical address: 100000011111
+Page 8 is in memory
+RAM: 10100011111 <-- 24
+Read transaction for logical address: 100010100001
+Page 8 is in memory
+RAM: 10110100001 --> 107
+Write transaction for logical address: 010001001001
+Page 4 is in memory
+RAM: 01001001001 <-- -10
+Read transaction for logical address: 110011101010
+Evicting page 8
+Bringing page 12 into frame 5
+RAM: 10111101010 --> 62
+Write transaction for logical address: 010010011011
+Page 4 is in memory
+RAM: 01010011011 <-- 111
+Read transaction for logical address: 001010010110
+Evicting page 15
+Bringing page 2 into frame 6
+RAM: 11010010110 --> -69
+Write transaction for logical address: 001100001001
+Evicting page 14
+Bringing page 3 into frame 7
+RAM: 11100001001 <-- 104
+Read transaction for logical address: 001110100000
+Page 3 is in memory
+RAM: 11110100000 --> 3
+Write transaction for logical address: 001111010100
+Page 3 is in memory
+RAM: 11111010100 <-- -122
+Read transaction for logical address: 001100001101
+Page 3 is in memory
+RAM: 11100001101 --> -50
+Write transaction for logical address: 011111100001
+Evicting page 13
+Bringing page 7 into frame 0
+RAM: 00011100001 <-- 53
+Read transaction for logical address: 000001110010
+Evicting page 6 (NOT DIRTY)
+Bringing page 0 into frame 1
+RAM: 00101110010 --> -55
+Write transaction for logical address: 101111101010
+Page 11 is in memory
+RAM: 10011101010 <-- 56
+Read transaction for logical address: 101001001000
+Page 10 is in memory
+RAM: 01101001000 --> -126
+Write transaction for logical address: 011010000010
+Evicting page 4
+Bringing page 6 into frame 2
+RAM: 01010000010 <-- -46
+Read transaction for logical address: 101000011101
+Page 10 is in memory
+RAM: 01100011101 --> 49
+Write transaction for logical address: 001111011010
+Page 3 is in memory
+RAM: 11111011010 <-- 13
+Read transaction for logical address: 100110011111
+Evicting page 10
+Bringing page 9 into frame 3
+RAM: 01110011111 --> -123
+Write transaction for logical address: 001110011000
+Page 3 is in memory
+RAM: 11110011000 <-- -4
+Read transaction for logical address: 000111100001
+Evicting page 11
+Bringing page 1 into frame 4
+RAM: 10011100001 --> -88
+Write transaction for logical address: 010111000001
+Evicting page 12 (NOT DIRTY)
+Bringing page 5 into frame 5
+RAM: 10111000001 <-- -85
+Read transaction for logical address: 100111111110
+Page 9 is in memory
+RAM: 01111111110 --> 115
+Write transaction for logical address: 001101111110
+Page 3 is in memory
+RAM: 11101111110 <-- -47
+Read transaction for logical address: 010000110010
+Evicting page 2 (NOT DIRTY)
+Bringing page 4 into frame 6
+RAM: 11000110010 --> -32
+Write transaction for logical address: 111100110100
+Evicting page 3
+Bringing page 15 into frame 7
+RAM: 11100110100 <-- -121
+Read transaction for logical address: 000001010100
+Page 0 is in memory
+RAM: 00101010100 --> -84
+Write transaction for logical address: 011001001100
+Page 6 is in memory
+RAM: 01001001100 <-- 110
+Read transaction for logical address: 000001000111
+Page 0 is in memory
+RAM: 00101000111 --> -35
+Write transaction for logical address: 000001000001
+Page 0 is in memory
+RAM: 00101000001 <-- 22
+Read transaction for logical address: 101011001110
+Evicting page 7
+Bringing page 10 into frame 0
+RAM: 00011001110 --> 55
+Write transaction for logical address: 100111001111
+Page 9 is in memory
+RAM: 01111001111 <-- 85
+Read transaction for logical address: 111001110000
+Evicting page 0
+Bringing page 14 into frame 1
+RAM: 00101110000 --> -64
+Write transaction for logical address: 110000000101
+Evicting page 6
+Bringing page 12 into frame 2
+RAM: 01000000101 <-- 94
+Read transaction for logical address: 000110110011
+Page 1 is in memory
+RAM: 10010110011 --> 125
+Write transaction for logical address: 110101101111
+Evicting page 9
+Bringing page 13 into frame 3
+RAM: 01101101111 <-- 96
+Read transaction for logical address: 100100001110
+Evicting page 1 (NOT DIRTY)
+Bringing page 9 into frame 4
+RAM: 10000001110 --> -99
+Write transaction for logical address: 010010010001
+Page 4 is in memory
+RAM: 11010010001 <-- -54
+Read transaction for logical address: 010001111001
+Page 4 is in memory
+RAM: 11001111001 --> -25
+Write transaction for logical address: 000110001000
+Evicting page 5
+Bringing page 1 into frame 5
+RAM: 10110001000 <-- 46
+Read transaction for logical address: 000000101011
+Evicting page 4
+Bringing page 0 into frame 6
+RAM: 11000101011 --> 87
+Write transaction for logical address: 001001011110
+Evicting page 15
+Bringing page 2 into frame 7
+RAM: 11101011110 <-- -54
+Read transaction for logical address: 110101100110
+Page 13 is in memory
+RAM: 01101100110 --> -19
+Write transaction for logical address: 101100011001
+Evicting page 10 (NOT DIRTY)
+Bringing page 11 into frame 0
+RAM: 00000011001 <-- -16
+Read transaction for logical address: 111101111100
+Evicting page 14 (NOT DIRTY)
+Bringing page 15 into frame 1
+RAM: 00101111100 --> 87
+Write transaction for logical address: 111001011011
+Evicting page 12
+Bringing page 14 into frame 2
+RAM: 01001011011 <-- -96
+Read transaction for logical address: 101101001001
+Page 11 is in memory
+RAM: 00001001001 --> 21
+Write transaction for logical address: 110101010010
+Page 13 is in memory
+RAM: 01101010010 <-- 110
+Read transaction for logical address: 100010101100
+Evicting page 13
+Bringing page 8 into frame 3
+RAM: 01110101100 --> -120
+Write transaction for logical address: 000101101011
+Page 1 is in memory
+RAM: 10101101011 <-- -101
+Read transaction for logical address: 011010011011
+Evicting page 9 (NOT DIRTY)
+Bringing page 6 into frame 4
+RAM: 10010011011 --> 80
+Write transaction for logical address: 010111010100
+Evicting page 1
+Bringing page 5 into frame 5
+RAM: 10111010100 <-- 61
+Read transaction for logical address: 001110101111
+Evicting page 0 (NOT DIRTY)
+Bringing page 3 into frame 6
+RAM: 11010101111 --> -102
+Write transaction for logical address: 111100011010
+Page 15 is in memory
+RAM: 00100011010 <-- 71
+Read transaction for logical address: 001111001111
+Page 3 is in memory
+RAM: 11011001111 --> 40
+Write transaction for logical address: 111101111111
+Page 15 is in memory
+RAM: 00101111111 <-- -126
+Read transaction for logical address: 011010101110
+Page 6 is in memory
+RAM: 10010101110 --> 40
+Write transaction for logical address: 000101110001
+Evicting page 2
+Bringing page 1 into frame 7
+RAM: 11101110001 <-- 107
+Read transaction for logical address: 010100110100
+Page 5 is in memory
+RAM: 10100110100 --> 106
+Write transaction for logical address: 011001100000
+Page 6 is in memory
+RAM: 10001100000 <-- 22
+Read transaction for logical address: 111111011001
+Page 15 is in memory
+RAM: 00111011001 --> -84
+Write transaction for logical address: 000001000011
+Evicting page 11
+Bringing page 0 into frame 0
+RAM: 00001000011 <-- 68
+Read transaction for logical address: 100101000010
+Evicting page 15
+Bringing page 9 into frame 1
+RAM: 00101000010 --> 5
+Write transaction for logical address: 001010001010
+Evicting page 14
+Bringing page 2 into frame 2
+RAM: 01010001010 <-- 76
+Read transaction for logical address: 001010111011
+Page 2 is in memory
+RAM: 01010111011 --> -1
+Write transaction for logical address: 010010101001
+Evicting page 8 (NOT DIRTY)
+Bringing page 4 into frame 3
+RAM: 01110101001 <-- 0
+Read transaction for logical address: 001110100000
+Page 3 is in memory
+RAM: 11010100000 --> 3
+Write transaction for logical address: 001111100011
+Page 3 is in memory
+RAM: 11011100011 <-- -104
+Read transaction for logical address: 100110101001
+Page 9 is in memory
+RAM: 00110101001 --> 16
+Write transaction for logical address: 111011110000
+Evicting page 6
+Bringing page 14 into frame 4
+RAM: 10011110000 <-- -59
+Read transaction for logical address: 000010111100
+Page 0 is in memory
+RAM: 00010111100 --> -101
+Write transaction for logical address: 011001001000
+Evicting page 5
+Bringing page 6 into frame 5
+RAM: 10101001000 <-- -103
+Read transaction for logical address: 011100001100
+Evicting page 3
+Bringing page 7 into frame 6
+RAM: 11000001100 --> 60
+Write transaction for logical address: 110000011010
+Evicting page 1
+Bringing page 12 into frame 7
+RAM: 11100011010 <-- 67
+Read transaction for logical address: 000010101101
+Page 0 is in memory
+RAM: 00010101101 --> -80
+Write transaction for logical address: 011100010110
+Page 7 is in memory
+RAM: 11000010110 <-- -65
+Read transaction for logical address: 011001111111
+Page 6 is in memory
+RAM: 10101111111 --> 28
+Write transaction for logical address: 010010000010
+Page 4 is in memory
+RAM: 01110000010 <-- -112
+Read transaction for logical address: 001010011111
+Page 2 is in memory
+RAM: 01010011111 --> 36
+Write transaction for logical address: 000111011101
+Evicting page 0
+Bringing page 1 into frame 0
+RAM: 00011011101 <-- 8
+Read transaction for logical address: 001110001000
+Evicting page 9 (NOT DIRTY)
+Bringing page 3 into frame 1
+RAM: 00110001000 --> -7
+Write transaction for logical address: 011010001000
+Page 6 is in memory
+RAM: 10110001000 <-- -38
+Read transaction for logical address: 000111110011
+Page 1 is in memory
+RAM: 00011110011 --> -5
+Write transaction for logical address: 011010000101
+Page 6 is in memory
+RAM: 10110000101 <-- -18
+Read transaction for logical address: 011000011011
+Page 6 is in memory
+RAM: 10100011011 --> -77
+Write transaction for logical address: 110000100111
+Page 12 is in memory
+RAM: 11100100111 <-- 51
+Read transaction for logical address: 000100100101
+Page 1 is in memory
+RAM: 00000100101 --> -47
+Write transaction for logical address: 001001100111
+Page 2 is in memory
+RAM: 01001100111 <-- 21
+Read transaction for logical address: 001011011100
+Page 2 is in memory
+RAM: 01011011100 --> -108
+Write transaction for logical address: 010101010111
+Evicting page 2
+Bringing page 5 into frame 2
+RAM: 01001010111 <-- 118
+Read transaction for logical address: 101001000111
+Evicting page 4
+Bringing page 10 into frame 3
+RAM: 01101000111 --> -49
+Write transaction for logical address: 000101000011
+Page 1 is in memory
+RAM: 00001000011 <-- 28
+Read transaction for logical address: 101000000011
+Page 10 is in memory
+RAM: 01100000011 --> -115
+Write transaction for logical address: 010010011100
+Evicting page 14
+Bringing page 4 into frame 4
+RAM: 10010011100 <-- -50
+Read transaction for logical address: 110001000010
+Page 12 is in memory
+RAM: 11101000010 --> -92
+Write transaction for logical address: 000000000011
+Evicting page 6
+Bringing page 0 into frame 5
+RAM: 10100000011 <-- 19
+Read transaction for logical address: 101001011101
+Page 10 is in memory
+RAM: 01101011101 --> 5
+Write transaction for logical address: 010110100111
+Page 5 is in memory
+RAM: 01010100111 <-- -68
+Read transaction for logical address: 110100110000
+Evicting page 7
+Bringing page 13 into frame 6
+RAM: 11000110000 --> -71
+Write transaction for logical address: 001111011011
+Page 3 is in memory
+RAM: 00111011011 <-- -45
+Read transaction for logical address: 100110010011
+Evicting page 12
+Bringing page 9 into frame 7
+RAM: 11110010011 --> -40
+Write transaction for logical address: 101110011101
+Evicting page 1
+Bringing page 11 into frame 0
+RAM: 00010011101 <-- -121
+Read transaction for logical address: 111010011100
+Evicting page 3
+Bringing page 14 into frame 1
+RAM: 00110011100 --> -127
+Write transaction for logical address: 010011111111
+Page 4 is in memory
+RAM: 10011111111 <-- -66
+Read transaction for logical address: 111000011000
+Page 14 is in memory
+RAM: 00100011000 --> 32
+Write transaction for logical address: 000111101110
+Evicting page 5
+Bringing page 1 into frame 2
+RAM: 01011101110 <-- 35
+Read transaction for logical address: 100000010110
+Evicting page 10 (NOT DIRTY)
+Bringing page 8 into frame 3
+RAM: 01100010110 --> -10
+Write transaction for logical address: 100101010011
+Page 9 is in memory
+RAM: 11101010011 <-- -26
+Read transaction for logical address: 011110100101
+Evicting page 4
+Bringing page 7 into frame 4
+RAM: 10010100101 --> -53
+Write transaction for logical address: 001100100110
+Evicting page 0
+Bringing page 3 into frame 5
+RAM: 10100100110 <-- -26
+Read transaction for logical address: 000001100000
+Evicting page 13 (NOT DIRTY)
+Bringing page 0 into frame 6
+RAM: 11001100000 --> -4
+Write transaction for logical address: 001110011111
+Page 3 is in memory
+RAM: 10110011111 <-- 70
+Read transaction for logical address: 011110011000
+Page 7 is in memory
+RAM: 10010011000 --> -95
+Write transaction for logical address: 111111010101
+Evicting page 9
+Bringing page 15 into frame 7
+RAM: 11111010101 <-- 46
+Read transaction for logical address: 010111010100
+Evicting page 11
+Bringing page 5 into frame 0
+RAM: 00011010100 --> 61
+Write transaction for logical address: 010111111110
+Page 5 is in memory
+RAM: 00011111110 <-- 125
+Read transaction for logical address: 000010100001
+Page 0 is in memory
+RAM: 11010100001 --> -93
+Write transaction for logical address: 011101011001
+Page 7 is in memory
+RAM: 10001011001 <-- -82
+Read transaction for logical address: 011000001111
+Evicting page 14 (NOT DIRTY)
+Bringing page 6 into frame 1
+RAM: 00100001111 --> -65
+Write transaction for logical address: 000010101011
+Page 0 is in memory
+RAM: 11010101011 <-- -114
+Read transaction for logical address: 001000110011
+Evicting page 1
+Bringing page 2 into frame 2
+RAM: 01000110011 --> 108
+Write transaction for logical address: 011100111111
+Page 7 is in memory
+RAM: 10000111111 <-- -63
+Read transaction for logical address: 010111001001
+Page 5 is in memory
+RAM: 00011001001 --> 114
+Write transaction for logical address: 000111100000
+Evicting page 8 (NOT DIRTY)
+Bringing page 1 into frame 3
+RAM: 01111100000 <-- 38
+Read transaction for logical address: 010000101101
+Evicting page 7
+Bringing page 4 into frame 4
+RAM: 10000101101 --> 89
+Write transaction for logical address: 100010011010
+Evicting page 3
+Bringing page 8 into frame 5
+RAM: 10110011010 <-- -99
+Read transaction for logical address: 100100100100
+Evicting page 0
+Bringing page 9 into frame 6
+RAM: 11000100100 --> -127
+Write transaction for logical address: 111100011111
+Page 15 is in memory
+RAM: 11100011111 <-- 5
+Read transaction for logical address: 010111011000
+Page 5 is in memory
+RAM: 00011011000 --> 85
+Write transaction for logical address: 001001101111
+Page 2 is in memory
+RAM: 01001101111 <-- 35
+Read transaction for logical address: 001000010100
+Page 2 is in memory
+RAM: 01000010100 --> 10
+Write transaction for logical address: 100010111110
+Page 8 is in memory
+RAM: 10110111110 <-- 32
+Read transaction for logical address: 010011110111
+Page 4 is in memory
+RAM: 10011110111 --> 122
+Write transaction for logical address: 100111011100
+Page 9 is in memory
+RAM: 11011011100 <-- -80
+Read transaction for logical address: 001100000100
+Evicting page 15
+Bringing page 3 into frame 7
+RAM: 11100000100 --> -41
+Write transaction for logical address: 101000110110
+Evicting page 5
+Bringing page 10 into frame 0
+RAM: 00000110110 <-- -70
+Read transaction for logical address: 100111010001
+Page 9 is in memory
+RAM: 11011010001 --> 105
+Write transaction for logical address: 111001101101
+Evicting page 6 (NOT DIRTY)
+Bringing page 14 into frame 1
+RAM: 00101101101 <-- -36
+Read transaction for logical address: 010000101001
+Page 4 is in memory
+RAM: 10000101001 --> -13
+Write transaction for logical address: 001100000111
+Page 3 is in memory
+RAM: 11100000111 <-- 40
+Read transaction for logical address: 110110110011
+Evicting page 2
+Bringing page 13 into frame 2
+RAM: 01010110011 --> 127
+Write transaction for logical address: 111111000000
+Evicting page 1
+Bringing page 15 into frame 3
+RAM: 01111000000 <-- 76
+Read transaction for logical address: 001001101100
+Evicting page 4 (NOT DIRTY)
+Bringing page 2 into frame 4
+RAM: 10001101100 --> -10
+Write transaction for logical address: 001000001000
+Page 2 is in memory
+RAM: 10000001000 <-- 26
+Read transaction for logical address: 000000111101
+Evicting page 8
+Bringing page 0 into frame 5
+RAM: 10100111101 --> 20
+Write transaction for logical address: 110001110101
+Evicting page 9
+Bringing page 12 into frame 6
+RAM: 11001110101 <-- 108
+Read transaction for logical address: 110110111100
+Page 13 is in memory
+RAM: 01010111100 --> -9
+Write transaction for logical address: 000000101010
+Page 0 is in memory
+RAM: 10100101010 <-- 104
+Read transaction for logical address: 111101011101
+Page 15 is in memory
+RAM: 01101011101 --> 114
+Write transaction for logical address: 010011000101
+Evicting page 3
+Bringing page 4 into frame 7
+RAM: 11111000101 <-- 124
+Read transaction for logical address: 000100110011
+Evicting page 10
+Bringing page 1 into frame 0
+RAM: 00000110011 --> 68
+Write transaction for logical address: 101000000101
+Evicting page 14
+Bringing page 10 into frame 1
+RAM: 00100000101 <-- 91
+Read transaction for logical address: 111111001100
+Page 15 is in memory
+RAM: 01111001100 --> -97
+Write transaction for logical address: 111010011111
+Evicting page 13 (NOT DIRTY)
+Bringing page 14 into frame 2
+RAM: 01010011111 <-- 53
+Read transaction for logical address: 110001110101
+Page 12 is in memory
+RAM: 11001110101 --> 108
+Write transaction for logical address: 110110010011
+Evicting page 15
+Bringing page 13 into frame 3
+RAM: 01110010011 <-- -56
+Read transaction for logical address: 011000001100
+Evicting page 2
+Bringing page 6 into frame 4
+RAM: 10000001100 --> 47
+Write transaction for logical address: 011010100101
+Page 6 is in memory
+RAM: 10010100101 <-- -111
+Read transaction for logical address: 001110111000
+Evicting page 0
+Bringing page 3 into frame 5
+RAM: 10110111000 --> 100
+Write transaction for logical address: 000100100001
+Page 1 is in memory
+RAM: 00000100001 <-- 112
+Read transaction for logical address: 110001110001
+Page 12 is in memory
+RAM: 11001110001 --> 11
+Write transaction for logical address: 001000010101
+Evicting page 12
+Bringing page 2 into frame 6
+RAM: 11000010101 <-- -51
+Read transaction for logical address: 011100110110
+Evicting page 4
+Bringing page 7 into frame 7
+RAM: 11100110110 --> -97
+Write transaction for logical address: 001100001011
+Page 3 is in memory
+RAM: 10100001011 <-- 123
+Read transaction for logical address: 100000000011
+Evicting page 1
+Bringing page 8 into frame 0
+RAM: 00000000011 --> 59
+Write transaction for logical address: 110110110100
+Page 13 is in memory
+RAM: 01110110100 <-- 94
+Read transaction for logical address: 111010000101
+Page 14 is in memory
+RAM: 01010000101 --> -88
+Write transaction for logical address: 110011110011
+Evicting page 10
+Bringing page 12 into frame 1
+RAM: 00111110011 <-- -100
+Read transaction for logical address: 101100001111
+Evicting page 14
+Bringing page 11 into frame 2
+RAM: 01000001111 --> -63
+Write transaction for logical address: 010010001011
+Evicting page 13
+Bringing page 4 into frame 3
+RAM: 01110001011 <-- -91
+Read transaction for logical address: 100010110010
+Page 8 is in memory
+RAM: 00010110010 --> -91
+Write transaction for logical address: 111010001000
+Evicting page 6
+Bringing page 14 into frame 4
+RAM: 10010001000 <-- 30
+Read transaction for logical address: 010011100010
+Page 4 is in memory
+RAM: 01111100010 --> 58
+Write transaction for logical address: 111010101100
+Page 14 is in memory
+RAM: 10010101100 <-- 47
+Read transaction for logical address: 010000111110
+Page 4 is in memory
+RAM: 01100111110 --> -72
+Write transaction for logical address: 011111100101
+Page 7 is in memory
+RAM: 11111100101 <-- -55
+Read transaction for logical address: 001111100001
+Page 3 is in memory
+RAM: 10111100001 --> 13
+Write transaction for logical address: 011011110111
+Evicting page 3
+Bringing page 6 into frame 5
+RAM: 10111110111 <-- 98
+Read transaction for logical address: 000110010010
+Evicting page 2
+Bringing page 1 into frame 6
+RAM: 11010010010 --> -25
+Write transaction for logical address: 011011001000
+Page 6 is in memory
+RAM: 10111001000 <-- 57
+Read transaction for logical address: 110100111100
+Evicting page 7
+Bringing page 13 into frame 7
+RAM: 11100111100 --> 37
+Write transaction for logical address: 101000101010
+Evicting page 8 (NOT DIRTY)
+Bringing page 10 into frame 0
+RAM: 00000101010 <-- 79
+Read transaction for logical address: 101101100110
+Page 11 is in memory
+RAM: 01001100110 --> -18
+Write transaction for logical address: 101000101100
+Page 10 is in memory
+RAM: 00000101100 <-- -65
+Read transaction for logical address: 011100010110
+Evicting page 12
+Bringing page 7 into frame 1
+RAM: 00100010110 --> -65
+Write transaction for logical address: 000001111000
+Evicting page 11 (NOT DIRTY)
+Bringing page 0 into frame 2
+RAM: 01001111000 <-- 100
+Read transaction for logical address: 010110110001
+Evicting page 4
+Bringing page 5 into frame 3
+RAM: 01110110001 --> 84
+Write transaction for logical address: 101100100011
+Evicting page 14
+Bringing page 11 into frame 4
+RAM: 10000100011 <-- 52
+Read transaction for logical address: 000001010111
+Page 0 is in memory
+RAM: 01001010111 --> -101
+Write transaction for logical address: 011011100110
+Page 6 is in memory
+RAM: 10111100110 <-- -38
+Read transaction for logical address: 010100011100
+Page 5 is in memory
+RAM: 01100011100 --> -53
+Write transaction for logical address: 000110111111
+Page 1 is in memory
+RAM: 11010111111 <-- 61
+Read transaction for logical address: 011100011000
+Page 7 is in memory
+RAM: 00100011000 --> -123
+Write transaction for logical address: 111011011101
+Evicting page 6
+Bringing page 14 into frame 5
+RAM: 10111011101 <-- -26
+Read transaction for logical address: 100001011011
+Evicting page 1
+Bringing page 8 into frame 6
+RAM: 11001011011 --> 116
+Write transaction for logical address: 101001011001
+Page 10 is in memory
+RAM: 00001011001 <-- -41
+Read transaction for logical address: 110110111110
+Page 13 is in memory
+RAM: 11110111110 --> 22
+Write transaction for logical address: 010010001101
+Evicting page 13 (NOT DIRTY)
+Bringing page 4 into frame 7
+RAM: 11110001101 <-- 101
+Read transaction for logical address: 010111100011
+Page 5 is in memory
+RAM: 01111100011 --> 62
+Write transaction for logical address: 010110001100
+Page 5 is in memory
+RAM: 01110001100 <-- 14
+Read transaction for logical address: 100110010010
+Evicting page 10
+Bringing page 9 into frame 0
+RAM: 00010010010 --> -13
+Write transaction for logical address: 011101011101
+Page 7 is in memory
+RAM: 00101011101 <-- -13
+Read transaction for logical address: 001011100011
+Evicting page 7
+Bringing page 2 into frame 1
+RAM: 00111100011 --> -105
+Write transaction for logical address: 101101010011
+Page 11 is in memory
+RAM: 10001010011 <-- 72
+Read transaction for logical address: 101011001111
+Evicting page 0
+Bringing page 10 into frame 2
+RAM: 01011001111 --> -95
+Write transaction for logical address: 000110101110
+Evicting page 5
+Bringing page 1 into frame 3
+RAM: 01110101110 <-- 35
+Read transaction for logical address: 001000000111
+Page 2 is in memory
+RAM: 00100000111 --> -31
+Write transaction for logical address: 000001000001
+Evicting page 11
+Bringing page 0 into frame 4
+RAM: 10001000001 <-- -91
+Read transaction for logical address: 000101011101
+Page 1 is in memory
+RAM: 01101011101 --> -109
+Write transaction for logical address: 010001101111
+Page 4 is in memory
+RAM: 11101101111 <-- 17
+Read transaction for logical address: 000001111001
+Page 0 is in memory
+RAM: 10001111001 --> 68
+Write transaction for logical address: 001101000110
+Evicting page 14
+Bringing page 3 into frame 5
+RAM: 10101000110 <-- 84
+Read transaction for logical address: 011000101111
+Evicting page 8 (NOT DIRTY)
+Bringing page 6 into frame 6
+RAM: 11000101111 --> -41
+Write transaction for logical address: 011011111110
+Page 6 is in memory
+RAM: 11011111110 <-- -13
+Read transaction for logical address: 000111010000
+Page 1 is in memory
+RAM: 01111010000 --> -98
+Write transaction for logical address: 010011010101
+Page 4 is in memory
+RAM: 11111010101 <-- -8
+Read transaction for logical address: 011000111001
+Page 6 is in memory
+RAM: 11000111001 --> -118
+Write transaction for logical address: 000011111101
+Page 0 is in memory
+RAM: 10011111101 <-- -93
+Read transaction for logical address: 001100111101
+Page 3 is in memory
+RAM: 10100111101 --> 64
+Write transaction for logical address: 110001101010
+Evicting page 4
+Bringing page 12 into frame 7
+RAM: 11101101010 <-- -119
+Read transaction for logical address: 110001001010
+Page 12 is in memory
+RAM: 11101001010 --> 58
+Write transaction for logical address: 101101010100
+Evicting page 9 (NOT DIRTY)
+Bringing page 11 into frame 0
+RAM: 00001010100 <-- 77
+Read transaction for logical address: 010001011011
+Evicting page 2 (NOT DIRTY)
+Bringing page 4 into frame 1
+RAM: 00101011011 --> -48
+Write transaction for logical address: 011100101011
+Evicting page 10 (NOT DIRTY)
+Bringing page 7 into frame 2
+RAM: 01000101011 <-- 4
+Read transaction for logical address: 011100100100
+Page 7 is in memory
+RAM: 01000100100 --> -127
+Write transaction for logical address: 001111000010
+Page 3 is in memory
+RAM: 10111000010 <-- -89
+Read transaction for logical address: 001111010010
+Page 3 is in memory
+RAM: 10111010010 --> -31
+Write transaction for logical address: 100100000010
+Evicting page 1
+Bringing page 9 into frame 3
+RAM: 01100000010 <-- -24
+Read transaction for logical address: 001001100001
+Evicting page 0
+Bringing page 2 into frame 4
+RAM: 10001100001 --> -92
+Write transaction for logical address: 110000100110
+Page 12 is in memory
+RAM: 11100100110 <-- -116
+Read transaction for logical address: 100100101011
+Page 9 is in memory
+RAM: 01100101011 --> 98
+Write transaction for logical address: 000101110010
+Evicting page 3
+Bringing page 1 into frame 5
+RAM: 10101110010 <-- -120
+Read transaction for logical address: 111110101111
+Evicting page 6
+Bringing page 15 into frame 6
+RAM: 11010101111 --> 18
+Write transaction for logical address: 000011011111
+Evicting page 12
+Bringing page 0 into frame 7
+RAM: 11111011111 <-- -3
+Read transaction for logical address: 101110100001
+Page 11 is in memory
+RAM: 00010100001 --> 11
+Write transaction for logical address: 100001101001
+Evicting page 11
+Bringing page 8 into frame 0
+RAM: 00001101001 <-- 56
+Read transaction for logical address: 111100010110
+Page 15 is in memory
+RAM: 11000010110 --> 7
+Write transaction for logical address: 000101111100
+Page 1 is in memory
+RAM: 10101111100 <-- 90
+Read transaction for logical address: 100101010001
+Page 9 is in memory
+RAM: 01101010001 --> 106
+Write transaction for logical address: 011101001111
+Page 7 is in memory
+RAM: 01001001111 <-- 11
+Read transaction for logical address: 010110000101
+Evicting page 4 (NOT DIRTY)
+Bringing page 5 into frame 1
+RAM: 00110000101 --> 6
+Write transaction for logical address: 100000100111
+Page 8 is in memory
+RAM: 00000100111 <-- -123
+Read transaction for logical address: 000000001101
+Page 0 is in memory
+RAM: 11100001101 --> -104
+Write transaction for logical address: 101100110000
+Evicting page 7
+Bringing page 11 into frame 2
+RAM: 01000110000 <-- -98
+Read transaction for logical address: 100000001101
+Page 8 is in memory
+RAM: 00000001101 --> -93
+Write transaction for logical address: 100000010000
+Page 8 is in memory
+RAM: 00000010000 <-- 97
+Read transaction for logical address: 011011001001
+Evicting page 9
+Bringing page 6 into frame 3
+RAM: 01111001001 --> 103
+Write transaction for logical address: 100001001100
+Page 8 is in memory
+RAM: 00001001100 <-- -69
+Read transaction for logical address: 000011110011
+Page 0 is in memory
+RAM: 11111110011 --> 105
+Write transaction for logical address: 100100010001
+Evicting page 2 (NOT DIRTY)
+Bringing page 9 into frame 4
+RAM: 10000010001 <-- 12
+Read transaction for logical address: 010110101010
+Page 5 is in memory
+RAM: 00110101010 --> -97
+Write transaction for logical address: 100000001111
+Page 8 is in memory
+RAM: 00000001111 <-- -104
+Read transaction for logical address: 001001111100
+Evicting page 1
+Bringing page 2 into frame 5
+RAM: 10101111100 --> 19
+Write transaction for logical address: 011000011000
+Page 6 is in memory
+RAM: 01100011000 <-- -115
+Read transaction for logical address: 000001101101
+Page 0 is in memory
+RAM: 11101101101 --> -37
+Write transaction for logical address: 011010011001
+Page 6 is in memory
+RAM: 01110011001 <-- -99
+Read transaction for logical address: 011101111111
+Evicting page 15 (NOT DIRTY)
+Bringing page 7 into frame 6
+RAM: 11001111111 --> -71
+Write transaction for logical address: 111101111101
+Evicting page 0
+Bringing page 15 into frame 7
+RAM: 11101111101 <-- 52
+Read transaction for logical address: 111000111000
+Evicting page 8
+Bringing page 14 into frame 0
+RAM: 00000111000 --> 29
+Write transaction for logical address: 001011011011
+Page 2 is in memory
+RAM: 10111011011 <-- -86
+Read transaction for logical address: 001001100111
+Page 2 is in memory
+RAM: 10101100111 --> 21
+Write transaction for logical address: 100111110010
+Page 9 is in memory
+RAM: 10011110010 <-- 29
+Read transaction for logical address: 001111101101
+Evicting page 5 (NOT DIRTY)
+Bringing page 3 into frame 1
+RAM: 00111101101 --> -79
+Write transaction for logical address: 111011110010
+Page 14 is in memory
+RAM: 00011110010 <-- 17
+Read transaction for logical address: 110100001100
+Evicting page 11
+Bringing page 13 into frame 2
+RAM: 01000001100 --> 107
+Write transaction for logical address: 111001101011
+Page 14 is in memory
+RAM: 00001101011 <-- 39
+Read transaction for logical address: 000111101101
+Evicting page 6
+Bringing page 1 into frame 3
+RAM: 01111101101 --> -111
+Write transaction for logical address: 011100010100
+Page 7 is in memory
+RAM: 11000010100 <-- 65
+Read transaction for logical address: 111000111010
+Page 14 is in memory
+RAM: 00000111010 --> -26
+Write transaction for logical address: 000010000010
+Evicting page 9
+Bringing page 0 into frame 4
+RAM: 10010000010 <-- -12
+Read transaction for logical address: 100101100110
+Evicting page 2
+Bringing page 9 into frame 5
+RAM: 10101100110 --> -26
+Write transaction for logical address: 111001101110
+Page 14 is in memory
+RAM: 00001101110 <-- 81
+Read transaction for logical address: 001101000000
+Page 3 is in memory
+RAM: 00101000000 --> -31
+Write transaction for logical address: 011011010110
+Evicting page 7
+Bringing page 6 into frame 6
+RAM: 11011010110 <-- -71
+Read transaction for logical address: 010000001000
+Evicting page 15
+Bringing page 4 into frame 7
+RAM: 11100001000 --> 41
+Write transaction for logical address: 111100110110
+Evicting page 14
+Bringing page 15 into frame 0
+RAM: 00000110110 <-- -93
+Read transaction for logical address: 001110110101
+Page 3 is in memory
+RAM: 00110110101 --> -95
+Write transaction for logical address: 010111000011
+Evicting page 3 (NOT DIRTY)
+Bringing page 5 into frame 1
+RAM: 00111000011 <-- -45
+Read transaction for logical address: 100110100100
+Page 9 is in memory
+RAM: 10110100100 --> -11
+Write transaction for logical address: 011001000110
+Page 6 is in memory
+RAM: 11001000110 <-- -27
+Read transaction for logical address: 111101101000
+Page 15 is in memory
+RAM: 00001101000 --> -77
+Write transaction for logical address: 110011101010
+Evicting page 13 (NOT DIRTY)
+Bringing page 12 into frame 2
+RAM: 01011101010 <-- 1
+Read transaction for logical address: 110001111010
+Page 12 is in memory
+RAM: 01001111010 --> -80
+Write transaction for logical address: 100001110111
+Evicting page 1 (NOT DIRTY)
+Bringing page 8 into frame 3
+RAM: 01101110111 <-- 3
+Read transaction for logical address: 011101010011
+Evicting page 0
+Bringing page 7 into frame 4
+RAM: 10001010011 --> -66
+Write transaction for logical address: 110001101111
+Page 12 is in memory
+RAM: 01001101111 <-- -110
+Read transaction for logical address: 010011010000
+Page 4 is in memory
+RAM: 11111010000 --> -2
+Write transaction for logical address: 000000100110
+Evicting page 9 (NOT DIRTY)
+Bringing page 0 into frame 5
+RAM: 10100100110 <-- -13
+Read transaction for logical address: 000100010010
+Evicting page 6
+Bringing page 1 into frame 6
+RAM: 11000010010 --> -43
+Write transaction for logical address: 001011101000
+Evicting page 4 (NOT DIRTY)
+Bringing page 2 into frame 7
+RAM: 11111101000 <-- -86
+Read transaction for logical address: 010010010100
+Evicting page 15
+Bringing page 4 into frame 0
+RAM: 00010010100 --> -26
+Write transaction for logical address: 101001011101
+Evicting page 5
+Bringing page 10 into frame 1
+RAM: 00101011101 <-- -86
+Read transaction for logical address: 001001010001
+Page 2 is in memory
+RAM: 11101010001 --> -5
+Write transaction for logical address: 010000000000
+Page 4 is in memory
+RAM: 00000000000 <-- -60
+Read transaction for logical address: 110001111011
+Page 12 is in memory
+RAM: 01001111011 --> 97
+Write transaction for logical address: 010101101110
+Evicting page 12
+Bringing page 5 into frame 2
+RAM: 01001101110 <-- 70
+Read transaction for logical address: 000011110101
+Page 0 is in memory
+RAM: 10111110101 --> -102
+Write transaction for logical address: 011101101100
+Page 7 is in memory
+RAM: 10001101100 <-- -15
+Read transaction for logical address: 010001010111
+Page 4 is in memory
+RAM: 00001010111 --> 40
+Write transaction for logical address: 110000100001
+Evicting page 8
+Bringing page 12 into frame 3
+RAM: 01100100001 <-- 33
+Read transaction for logical address: 011000000010
+Evicting page 7
+Bringing page 6 into frame 4
+RAM: 10000000010 --> -115
+Write transaction for logical address: 100111001001
+Evicting page 0
+Bringing page 9 into frame 5
+RAM: 10111001001 <-- -13
+Read transaction for logical address: 101001011001
+Page 10 is in memory
+RAM: 00101011001 --> -41
+Write transaction for logical address: 010101100100
+Page 5 is in memory
+RAM: 01001100100 <-- -13
+Read transaction for logical address: 111010111110
+Evicting page 1 (NOT DIRTY)
+Bringing page 14 into frame 6
+RAM: 11010111110 --> -127
+Write transaction for logical address: 111101000111
+Evicting page 2
+Bringing page 15 into frame 7
+RAM: 11101000111 <-- -19
+Read transaction for logical address: 101100101010
+Evicting page 4
+Bringing page 11 into frame 0
+RAM: 00000101010 --> -59
+Write transaction for logical address: 111000001011
+Page 14 is in memory
+RAM: 11000001011 <-- 97
+Read transaction for logical address: 111101011010
+Page 15 is in memory
+RAM: 11101011010 --> -113
+Write transaction for logical address: 011100100101
+Evicting page 10
+Bringing page 7 into frame 1
+RAM: 00100100101 <-- -16
+Read transaction for logical address: 100011001100
+Evicting page 5
+Bringing page 8 into frame 2
+RAM: 01011001100 --> 93
+Write transaction for logical address: 000001001000
+Evicting page 12
+Bringing page 0 into frame 3
+RAM: 01101001000 <-- -97
+Read transaction for logical address: 001110000100
+Evicting page 6 (NOT DIRTY)
+Bringing page 3 into frame 4
+RAM: 10010000100 --> 44
+Write transaction for logical address: 110100001001
+Evicting page 9
+Bringing page 13 into frame 5
+RAM: 10100001001 <-- -27
+Read transaction for logical address: 011101111111
+Page 7 is in memory
+RAM: 00101111111 --> -71
+Write transaction for logical address: 011000100101
+Evicting page 14
+Bringing page 6 into frame 6
+RAM: 11000100101 <-- 75
+Read transaction for logical address: 011100100110
+Page 7 is in memory
+RAM: 00100100110 --> -93
+Write transaction for logical address: 011000101000
+Page 6 is in memory
+RAM: 11000101000 <-- 66
+Read transaction for logical address: 001001010100
+Evicting page 15
+Bringing page 2 into frame 7
+RAM: 11101010100 --> 112
+Write transaction for logical address: 010101101011
+Evicting page 11 (NOT DIRTY)
+Bringing page 5 into frame 0
+RAM: 00001101011 <-- 104
+Read transaction for logical address: 101101101010
+Evicting page 7
+Bringing page 11 into frame 1
+RAM: 00101101010 --> 28
+Write transaction for logical address: 000001001011
+Page 0 is in memory
+RAM: 01101001011 <-- 31
+Read transaction for logical address: 011100100101
+Evicting page 8 (NOT DIRTY)
+Bringing page 7 into frame 2
+RAM: 01000100101 --> -16
+Write transaction for logical address: 010001001000
+Evicting page 0
+Bringing page 4 into frame 3
+RAM: 01101001000 <-- -1
+Read transaction for logical address: 100010110101
+Evicting page 3 (NOT DIRTY)
+Bringing page 8 into frame 4
+RAM: 10010110101 --> 83
+Write transaction for logical address: 011000010110
+Page 6 is in memory
+RAM: 11000010110 <-- 10
+Read transaction for logical address: 011111100101
+Page 7 is in memory
+RAM: 01011100101 --> -55
+Write transaction for logical address: 000010001011
+Evicting page 13
+Bringing page 0 into frame 5
+RAM: 10110001011 <-- 29
+Read transaction for logical address: 101111101110
+Page 11 is in memory
+RAM: 00111101110 --> 58
+Write transaction for logical address: 000110000011
+Evicting page 6
+Bringing page 1 into frame 6
+RAM: 11010000011 <-- -42
+Read transaction for logical address: 111001010000
+Evicting page 2 (NOT DIRTY)
+Bringing page 14 into frame 7
+RAM: 11101010000 --> 104
+Write transaction for logical address: 010001000100
+Page 4 is in memory
+RAM: 01101000100 <-- 8
+Read transaction for logical address: 010110000110
+Page 5 is in memory
+RAM: 00010000110 --> -93
+Write transaction for logical address: 001000111010
+Evicting page 5
+Bringing page 2 into frame 0
+RAM: 00000111010 <-- 59
+Read transaction for logical address: 110111100001
+Evicting page 11 (NOT DIRTY)
+Bringing page 13 into frame 1
+RAM: 00111100001 --> -13
+Write transaction for logical address: 011001110110
+Evicting page 7 (NOT DIRTY)
+Bringing page 6 into frame 2
+RAM: 01001110110 <-- 8
+Read transaction for logical address: 011110001110
+Evicting page 4
+Bringing page 7 into frame 3
+RAM: 01110001110 --> 21
+Write transaction for logical address: 110100011010
+Page 13 is in memory
+RAM: 00100011010 <-- 4
+Read transaction for logical address: 100110100000
+Evicting page 8 (NOT DIRTY)
+Bringing page 9 into frame 4
+RAM: 10010100000 --> 49
+Write transaction for logical address: 111101010100
+Evicting page 0
+Bringing page 15 into frame 5
+RAM: 10101010100 <-- -88
+Read transaction for logical address: 110101111011
+Page 13 is in memory
+RAM: 00101111011 --> 92
+Write transaction for logical address: 010010010010
+Evicting page 1
+Bringing page 4 into frame 6
+RAM: 11010010010 <-- 12
+Read transaction for logical address: 111100101100
+Page 15 is in memory
+RAM: 10100101100 --> 81
+Write transaction for logical address: 101011101100
+Evicting page 14 (NOT DIRTY)
+Bringing page 10 into frame 7
+RAM: 11111101100 <-- -98
+Read transaction for logical address: 110110101100
+Page 13 is in memory
+RAM: 00110101100 --> 71
+Write transaction for logical address: 011110001111
+Page 7 is in memory
+RAM: 01110001111 <-- 59
+Read transaction for logical address: 000100000001
+Evicting page 2
+Bringing page 1 into frame 0
+RAM: 00000000001 --> -49
+Write transaction for logical address: 101011100100
+Page 10 is in memory
+RAM: 11111100100 <-- 6
+Read transaction for logical address: 111100100001
+Page 15 is in memory
+RAM: 10100100001 --> 110
+Write transaction for logical address: 001110101101
+Evicting page 13
+Bringing page 3 into frame 1
+RAM: 00110101101 <-- -128
+Read transaction for logical address: 100000000000
+Evicting page 6
+Bringing page 8 into frame 2
+RAM: 01000000000 --> -33
+Write transaction for logical address: 110011010101
+Evicting page 7
+Bringing page 12 into frame 3
+RAM: 01111010101 <-- -108
+Read transaction for logical address: 010010111001
+Page 4 is in memory
+RAM: 11010111001 --> -53
+Write transaction for logical address: 010100000101
+Evicting page 9 (NOT DIRTY)
+Bringing page 5 into frame 4
+RAM: 10000000101 <-- 103
+Read transaction for logical address: 010110110101
+Page 5 is in memory
+RAM: 10010110101 --> -91
+Write transaction for logical address: 100110111111
+Evicting page 15
+Bringing page 9 into frame 5
+RAM: 10110111111 <-- -83
+Read transaction for logical address: 111010111001
+Evicting page 4
+Bringing page 14 into frame 6
+RAM: 11010111001 --> -21
+Write transaction for logical address: 100100001111
+Page 9 is in memory
+RAM: 10100001111 <-- -80
+Read transaction for logical address: 010110110111
+Page 5 is in memory
+RAM: 10010110111 --> -115
+Write transaction for logical address: 010111010100
+Page 5 is in memory
+RAM: 10011010100 <-- -113
+Read transaction for logical address: 001111000110
+Page 3 is in memory
+RAM: 00111000110 --> 12
+Write transaction for logical address: 010111010101
+Page 5 is in memory
+RAM: 10011010101 <-- -30
+Read transaction for logical address: 001011110101
+Evicting page 10
+Bringing page 2 into frame 7
+RAM: 11111110101 --> -11
+Write transaction for logical address: 110000111111
+Page 12 is in memory
+RAM: 01100111111 <-- 80
+Read transaction for logical address: 111011001101
+Page 14 is in memory
+RAM: 11011001101 --> -51
+Write transaction for logical address: 011000010000
+Evicting page 1 (NOT DIRTY)
+Bringing page 6 into frame 0
+RAM: 00000010000 <-- -72
+Read transaction for logical address: 001010101110
+Page 2 is in memory
+RAM: 11110101110 --> 42
+Write transaction for logical address: 011001000101
+Page 6 is in memory
+RAM: 00001000101 <-- -24
+Read transaction for logical address: 010011001000
+Evicting page 3
+Bringing page 4 into frame 1
+RAM: 00111001000 --> -15
+Write transaction for logical address: 011000100001
+Page 6 is in memory
+RAM: 00000100001 <-- -11
+Read transaction for logical address: 001010001110
+Page 2 is in memory
+RAM: 11110001110 --> -30
+Write transaction for logical address: 011101100110
+Evicting page 8 (NOT DIRTY)
+Bringing page 7 into frame 2
+RAM: 01001100110 <-- -123
+Read transaction for logical address: 100001110011
+Evicting page 12
+Bringing page 8 into frame 3
+RAM: 01101110011 --> 62
+Write transaction for logical address: 100101111100
+Page 9 is in memory
+RAM: 10101111100 <-- -69
+Read transaction for logical address: 011011111100
+Page 6 is in memory
+RAM: 00011111100 --> 58
+Write transaction for logical address: 100101010000
+Page 9 is in memory
+RAM: 10101010000 <-- -22
+Read transaction for logical address: 101110011100
+Evicting page 5
+Bringing page 11 into frame 4
+RAM: 10010011100 --> 104
+Write transaction for logical address: 000011000001
+Evicting page 9
+Bringing page 0 into frame 5
+RAM: 10111000001 <-- 67
+Read transaction for logical address: 100101011111
+Evicting page 14 (NOT DIRTY)
+Bringing page 9 into frame 6
+RAM: 11001011111 --> 10
+Write transaction for logical address: 011110110100
+Page 7 is in memory
+RAM: 01010110100 <-- 63
+Read transaction for logical address: 011110010110
+Page 7 is in memory
+RAM: 01010010110 --> 49
+Write transaction for logical address: 110001111000
+Evicting page 2 (NOT DIRTY)
+Bringing page 12 into frame 7
+RAM: 11101111000 <-- 58
+Read transaction for logical address: 011011010100
+Page 6 is in memory
+RAM: 00011010100 --> 71
+Write transaction for logical address: 111010110101
+Evicting page 6
+Bringing page 14 into frame 0
+RAM: 00010110101 <-- -97
+Read transaction for logical address: 100100101111
+Page 9 is in memory
+RAM: 11000101111 --> 50
+Write transaction for logical address: 110111111001
+Evicting page 4 (NOT DIRTY)
+Bringing page 13 into frame 1
+RAM: 00111111001 <-- 66
+Read transaction for logical address: 000001111110
+Page 0 is in memory
+RAM: 10101111110 --> 12
+Write transaction for logical address: 001011101111
+Evicting page 7
+Bringing page 2 into frame 2
+RAM: 01011101111 <-- -98
+Read transaction for logical address: 000110100101
+Evicting page 8 (NOT DIRTY)
+Bringing page 1 into frame 3
+RAM: 01110100101 --> -71
+Write transaction for logical address: 101011001001
+Evicting page 11 (NOT DIRTY)
+Bringing page 10 into frame 4
+RAM: 10011001001 <-- 118
+Read transaction for logical address: 101001011101
+Page 10 is in memory
+RAM: 10001011101 --> -86
+Write transaction for logical address: 101111011110
+Evicting page 0
+Bringing page 11 into frame 5
+RAM: 10111011110 <-- -39
+Read transaction for logical address: 001111111100
+Evicting page 9 (NOT DIRTY)
+Bringing page 3 into frame 6
+RAM: 11011111100 --> 30
+Write transaction for logical address: 101011001100
+Page 10 is in memory
+RAM: 10011001100 <-- 119
+Read transaction for logical address: 000001010011
+Evicting page 12
+Bringing page 0 into frame 7
+RAM: 11101010011 --> 78
+Write transaction for logical address: 011010100000
+Evicting page 14
+Bringing page 6 into frame 0
+RAM: 00010100000 <-- -69
+Read transaction for logical address: 010001110101
+Evicting page 13
+Bringing page 4 into frame 1
+RAM: 00101110101 --> -21
+Write transaction for logical address: 010110100001
+Evicting page 2
+Bringing page 5 into frame 2
+RAM: 01010100001 <-- 61
+Read transaction for logical address: 000000100001
+Page 0 is in memory
+RAM: 11100100001 --> 85
+Write transaction for logical address: 010100000000
+Page 5 is in memory
+RAM: 01000000000 <-- 50
+Read transaction for logical address: 111101010001
+Evicting page 1 (NOT DIRTY)
+Bringing page 15 into frame 3
+RAM: 01101010001 --> -37
+Write transaction for logical address: 111101111010
+Page 15 is in memory
+RAM: 01101111010 <-- -56
+Read transaction for logical address: 111110111001
+Page 15 is in memory
+RAM: 01110111001 --> -81
+Write transaction for logical address: 000011111100
+Page 0 is in memory
+RAM: 11111111100 <-- -105
+Read transaction for logical address: 010110110100
+Page 5 is in memory
+RAM: 01010110100 --> 5
+Write transaction for logical address: 001011101001
+Evicting page 10
+Bringing page 2 into frame 4
+RAM: 10011101001 <-- -125
+Read transaction for logical address: 111101000000
+Page 15 is in memory
+RAM: 01101000000 --> -27
+Write transaction for logical address: 110001000001
+Evicting page 11
+Bringing page 12 into frame 5
+RAM: 10101000001 <-- -13
+Read transaction for logical address: 000000101111
+Page 0 is in memory
+RAM: 11100101111 --> -18
+Write transaction for logical address: 100001001000
+Evicting page 3 (NOT DIRTY)
+Bringing page 8 into frame 6
+RAM: 11001001000 <-- 21
+Read transaction for logical address: 111010101010
+Evicting page 0
+Bringing page 14 into frame 7
+RAM: 11110101010 --> -72
+Write transaction for logical address: 000000111101
+Evicting page 6
+Bringing page 0 into frame 0
+RAM: 00000111101 <-- 119
+Read transaction for logical address: 000010111100
+Page 0 is in memory
+RAM: 00010111100 --> -101
+Write transaction for logical address: 101000001110
+Evicting page 4 (NOT DIRTY)
+Bringing page 10 into frame 1
+RAM: 00100001110 <-- -77
+Read transaction for logical address: 000111011100
+Evicting page 5
+Bringing page 1 into frame 2
+RAM: 01011011100 --> 35
+Write transaction for logical address: 001111110000
+Evicting page 15
+Bringing page 3 into frame 3
+RAM: 01111110000 <-- -63
+Read transaction for logical address: 010101111110
+Evicting page 2
+Bringing page 5 into frame 4
+RAM: 10001111110 --> 10
+Write transaction for logical address: 100011000101
+Page 8 is in memory
+RAM: 11011000101 <-- 84
+Read transaction for logical address: 100111110000
+Evicting page 12
+Bringing page 9 into frame 5
+RAM: 10111110000 --> -93
+Write transaction for logical address: 011110110101
+Evicting page 8
+Bringing page 7 into frame 6
+RAM: 11010110101 <-- 74
+Read transaction for logical address: 011101010011
+Page 7 is in memory
+RAM: 11001010011 --> -66
+Write transaction for logical address: 101000111100
+Page 10 is in memory
+RAM: 00100111100 <-- -36
+Read transaction for logical address: 100011000000
+Evicting page 14 (NOT DIRTY)
+Bringing page 8 into frame 7
+RAM: 11111000000 --> -87
+Write transaction for logical address: 010110111001
+Page 5 is in memory
+RAM: 10010111001 <-- -28
+Read transaction for logical address: 011010011011
+Evicting page 0
+Bringing page 6 into frame 0
+RAM: 00010011011 --> 80
+Write transaction for logical address: 010001000100
+Evicting page 10
+Bringing page 4 into frame 1
+RAM: 00101000100 <-- -99
+Read transaction for logical address: 010000011001
+Page 4 is in memory
+RAM: 00100011001 --> 31
+Write transaction for logical address: 111000101100
+Evicting page 1 (NOT DIRTY)
+Bringing page 14 into frame 2
+RAM: 01000101100 <-- 112
+Read transaction for logical address: 011001011100
+Page 6 is in memory
+RAM: 00001011100 --> -111
+Write transaction for logical address: 010010010101
+Page 4 is in memory
+RAM: 00110010101 <-- -72
+Read transaction for logical address: 110001000000
+Evicting page 3
+Bringing page 12 into frame 3
+RAM: 01101000000 --> -3
+Write transaction for logical address: 101000000110
+Evicting page 5
+Bringing page 10 into frame 4
+RAM: 10000000110 <-- 106
+Read transaction for logical address: 100101011001
+Page 9 is in memory
+RAM: 10101011001 --> -26
+Write transaction for logical address: 100010101000
+Page 8 is in memory
+RAM: 11110101000 <-- -98
+Read transaction for logical address: 000111001101
+Evicting page 9 (NOT DIRTY)
+Bringing page 1 into frame 5
+RAM: 10111001101 --> -117
+Write transaction for logical address: 010100100101
+Evicting page 7
+Bringing page 5 into frame 6
+RAM: 11000100101 <-- 75
+Read transaction for logical address: 100111000100
+Evicting page 8
+Bringing page 9 into frame 7
+RAM: 11111000100 --> 0
+Write transaction for logical address: 101001000100
+Page 10 is in memory
+RAM: 10001000100 <-- -33
+Read transaction for logical address: 001011000101
+Evicting page 6 (NOT DIRTY)
+Bringing page 2 into frame 0
+RAM: 00011000101 --> -127
+Write transaction for logical address: 100111000010
+Page 9 is in memory
+RAM: 11111000010 <-- -115
+Read transaction for logical address: 001010001111
+Page 2 is in memory
+RAM: 00010001111 --> -36
+Write transaction for logical address: 110000000111
+Page 12 is in memory
+RAM: 01100000111 <-- -81
+Read transaction for logical address: 101000100010
+Page 10 is in memory
+RAM: 10000100010 --> -62
+Write transaction for logical address: 100111101000
+Page 9 is in memory
+RAM: 11111101000 <-- 29
+Read transaction for logical address: 001101001100
+Evicting page 4
+Bringing page 3 into frame 1
+RAM: 00101001100 --> 15
+Write transaction for logical address: 010101111011
+Page 5 is in memory
+RAM: 11001111011 <-- 101
+Read transaction for logical address: 011110100100
+Evicting page 14
+Bringing page 7 into frame 2
+RAM: 01010100100 --> 50
+Write transaction for logical address: 011110111010
+Page 7 is in memory
+RAM: 01010111010 <-- 8
+Read transaction for logical address: 100111011001
+Page 9 is in memory
+RAM: 11111011001 --> -85
+Write transaction for logical address: 010001011101
+Evicting page 12
+Bringing page 4 into frame 3
+RAM: 01101011101 <-- 11
+Read transaction for logical address: 010000011011
+Page 4 is in memory
+RAM: 01100011011 --> -117
+Write transaction for logical address: 110111010111
+Evicting page 10
+Bringing page 13 into frame 4
+RAM: 10011010111 <-- 96
+Read transaction for logical address: 010100101000
+Page 5 is in memory
+RAM: 11000101000 --> -106
+Write transaction for logical address: 011111110111
+Page 7 is in memory
+RAM: 01011110111 <-- 117
+Read transaction for logical address: 001111010010
+Page 3 is in memory
+RAM: 00111010010 --> -31
+Write transaction for logical address: 011000100111
+Evicting page 1 (NOT DIRTY)
+Bringing page 6 into frame 5
+RAM: 10100100111 <-- 68
+Read transaction for logical address: 111110000001
+Evicting page 5
+Bringing page 15 into frame 6
+RAM: 11010000001 --> 86
+Write transaction for logical address: 000110000000
+Evicting page 9
+Bringing page 1 into frame 7
+RAM: 11110000000 <-- -122
+Read transaction for logical address: 111101110000
+Page 15 is in memory
+RAM: 11001110000 --> 91
+Write transaction for logical address: 000000010100
+Evicting page 2 (NOT DIRTY)
+Bringing page 0 into frame 0
+RAM: 00000010100 <-- -3
+Read transaction for logical address: 110101001111
+Page 13 is in memory
+RAM: 10001001111 --> 69
+Write transaction for logical address: 011111100011
+Page 7 is in memory
+RAM: 01011100011 <-- -118
+Read transaction for logical address: 011011000000
+Page 6 is in memory
+RAM: 10111000000 --> 40
+Write transaction for logical address: 000000011000
+Page 0 is in memory
+RAM: 00000011000 <-- -33
+Read transaction for logical address: 111010000110
+Evicting page 3 (NOT DIRTY)
+Bringing page 14 into frame 1
+RAM: 00110000110 --> 9
+Write transaction for logical address: 000101001011
+Page 1 is in memory
+RAM: 11101001011 <-- -12
+Read transaction for logical address: 010101111100
+Evicting page 7
+Bringing page 5 into frame 2
+RAM: 01001111100 --> 13
+Write transaction for logical address: 001011100011
+Evicting page 4
+Bringing page 2 into frame 3
+RAM: 01111100011 <-- 67
+Read transaction for logical address: 001101001011
+Evicting page 13
+Bringing page 3 into frame 4
+RAM: 10001001011 --> 61
+Write transaction for logical address: 101011100010
+Evicting page 6
+Bringing page 10 into frame 5
+RAM: 10111100010 <-- 55
+Read transaction for logical address: 111101100010
+Page 15 is in memory
+RAM: 11001100010 --> -83
+Write transaction for logical address: 111001001011
+Page 14 is in memory
+RAM: 00101001011 <-- -59
+Read transaction for logical address: 101110111100
+Evicting page 15 (NOT DIRTY)
+Bringing page 11 into frame 6
+RAM: 11010111100 --> -54
+Write transaction for logical address: 110001000011
+Evicting page 1
+Bringing page 12 into frame 7
+RAM: 11101000011 <-- -31
+Read transaction for logical address: 001000110001
+Page 2 is in memory
+RAM: 01100110001 --> 92
+Write transaction for logical address: 000000100100
+Page 0 is in memory
+RAM: 00000100100 <-- -112
+Read transaction for logical address: 100011001101
+Evicting page 0
+Bringing page 8 into frame 0
+RAM: 00011001101 --> -26
+Write transaction for logical address: 010001000100
+Evicting page 14
+Bringing page 4 into frame 1
+RAM: 00101000100 <-- -99
+Read transaction for logical address: 110011001100
+Page 12 is in memory
+RAM: 11111001100 --> -94
+Write transaction for logical address: 001111011011
+Page 3 is in memory
+RAM: 10011011011 <-- 37
+Read transaction for logical address: 010101100011
+Page 5 is in memory
+RAM: 01001100011 --> 8
+Write transaction for logical address: 011010010110
+Evicting page 5 (NOT DIRTY)
+Bringing page 6 into frame 2
+RAM: 01010010110 <-- 60
+Read transaction for logical address: 011000001110
+Page 6 is in memory
+RAM: 01000001110 --> 71
+Write transaction for logical address: 001011101000
+Page 2 is in memory
+RAM: 01111101000 <-- 109
+Read transaction for logical address: 100111100100
+Evicting page 2
+Bringing page 9 into frame 3
+RAM: 01111100100 --> -55
+Write transaction for logical address: 110011101011
+Page 12 is in memory
+RAM: 11111101011 <-- 6
+Read transaction for logical address: 100100011101
+Page 9 is in memory
+RAM: 01100011101 --> 56
+Write transaction for logical address: 111101101100
+Evicting page 3
+Bringing page 15 into frame 4
+RAM: 10001101100 <-- 66
+Read transaction for logical address: 110100110000
+Evicting page 10
+Bringing page 13 into frame 5
+RAM: 10100110000 --> -71
+Write transaction for logical address: 101011010100
+Evicting page 11 (NOT DIRTY)
+Bringing page 10 into frame 6
+RAM: 11011010100 <-- 87
+Read transaction for logical address: 001011000111
+Evicting page 12
+Bringing page 2 into frame 7
+RAM: 11111000111 --> 84
+Write transaction for logical address: 100010101011
+Page 8 is in memory
+RAM: 00010101011 <-- 62
+Read transaction for logical address: 100111001001
+Page 9 is in memory
+RAM: 01111001001 --> -13
+Write transaction for logical address: 110110111011
+Page 13 is in memory
+RAM: 10110111011 <-- -50
+Read transaction for logical address: 010011100110
+Page 4 is in memory
+RAM: 00111100110 --> 44
+Write transaction for logical address: 101100010111
+Evicting page 8
+Bringing page 11 into frame 0
+RAM: 00000010111 <-- 84
+Read transaction for logical address: 001100100011
+Evicting page 4
+Bringing page 3 into frame 1
+RAM: 00100100011 --> -46
+Write transaction for logical address: 101110011010
+Page 11 is in memory
+RAM: 00010011010 <-- 39
+Read transaction for logical address: 100110010000
+Page 9 is in memory
+RAM: 01110010000 --> -36
+Write transaction for logical address: 000110110010
+Evicting page 6
+Bringing page 1 into frame 2
+RAM: 01010110010 <-- 95
+Read transaction for logical address: 100111010001
+Page 9 is in memory
+RAM: 01111010001 --> 105
+Write transaction for logical address: 000001101111
+Evicting page 9 (NOT DIRTY)
+Bringing page 0 into frame 3
+RAM: 01101101111 <-- -102
+Read transaction for logical address: 111101101001
+Page 15 is in memory
+RAM: 10001101001 --> -124
+Write transaction for logical address: 001100010011
+Page 3 is in memory
+RAM: 00100010011 <-- -54
+Read transaction for logical address: 010000110000
+Evicting page 15
+Bringing page 4 into frame 4
+RAM: 10000110000 --> -4
+Write transaction for logical address: 100011110010
+Evicting page 13
+Bringing page 8 into frame 5
+RAM: 10111110010 <-- -55
+Read transaction for logical address: 001100101001
+Page 3 is in memory
+RAM: 00100101001 --> -104
+Write transaction for logical address: 100011100100
+Page 8 is in memory
+RAM: 10111100100 <-- 9
+Read transaction for logical address: 011000000000
+Evicting page 10
+Bringing page 6 into frame 6
+RAM: 11000000000 --> 2
+Write transaction for logical address: 001001010101
+Page 2 is in memory
+RAM: 11101010101 <-- 123
+Read transaction for logical address: 011101100000
+Evicting page 2
+Bringing page 7 into frame 7
+RAM: 11101100000 --> 42
+Write transaction for logical address: 001001111011
+Evicting page 11
+Bringing page 2 into frame 0
+RAM: 00001111011 <-- 44
+Read transaction for logical address: 111010101001
+Evicting page 3
+Bringing page 14 into frame 1
+RAM: 00110101001 --> 37
+Write transaction for logical address: 100110011011
+Evicting page 1
+Bringing page 9 into frame 2
+RAM: 01010011011 <-- -117
+Read transaction for logical address: 011011000000
+Page 6 is in memory
+RAM: 11011000000 --> 40
+Write transaction for logical address: 101010000001
+Evicting page 0
+Bringing page 10 into frame 3
+RAM: 01110000001 <-- -8
+Read transaction for logical address: 111000110101
+Page 14 is in memory
+RAM: 00100110101 --> 49
+Write transaction for logical address: 110110011101
+Evicting page 4 (NOT DIRTY)
+Bringing page 13 into frame 4
+RAM: 10010011101 <-- -61
+Read transaction for logical address: 110011000000
+Evicting page 8
+Bringing page 12 into frame 5
+RAM: 10111000000 --> 106
+Write transaction for logical address: 010110111101
+Evicting page 6 (NOT DIRTY)
+Bringing page 5 into frame 6
+RAM: 11010111101 <-- 74
+Read transaction for logical address: 011100101100
+Page 7 is in memory
+RAM: 11100101100 --> -31
+Write transaction for logical address: 001010001011
+Page 2 is in memory
+RAM: 00010001011 <-- 8
+Read transaction for logical address: 011000100010
+Evicting page 7 (NOT DIRTY)
+Bringing page 6 into frame 7
+RAM: 11100100010 --> 24
+Write transaction for logical address: 111010101111
+Page 14 is in memory
+RAM: 00110101111 <-- 27
+Read transaction for logical address: 000000011000
+Evicting page 2
+Bringing page 0 into frame 0
+RAM: 00000011000 --> -33
+Write transaction for logical address: 011111110110
+Evicting page 14
+Bringing page 7 into frame 1
+RAM: 00111110110 <-- -43
+Read transaction for logical address: 001101110110
+Evicting page 9
+Bringing page 3 into frame 2
+RAM: 01001110110 --> 124
+Write transaction for logical address: 100101111011
+Evicting page 10
+Bringing page 9 into frame 3
+RAM: 01101111011 <-- -8
+Read transaction for logical address: 101011100111
+Evicting page 13
+Bringing page 10 into frame 4
+RAM: 10011100111 --> -2
+Write transaction for logical address: 111101101101
+Evicting page 12 (NOT DIRTY)
+Bringing page 15 into frame 5
+RAM: 10101101101 <-- -63
+Read transaction for logical address: 011011010100
+Page 6 is in memory
+RAM: 11111010100 --> 71
+Write transaction for logical address: 001001001111
+Evicting page 5
+Bringing page 2 into frame 6
+RAM: 11001001111 <-- 103
+Read transaction for logical address: 011000000011
+Page 6 is in memory
+RAM: 11100000011 --> -101
+Write transaction for logical address: 110110100110
+Evicting page 6 (NOT DIRTY)
+Bringing page 13 into frame 7
+RAM: 11110100110 <-- -118
+Read transaction for logical address: 010000100010
+Evicting page 0 (NOT DIRTY)
+Bringing page 4 into frame 0
+RAM: 00000100010 --> -54
+Write transaction for logical address: 101111111100
+Evicting page 7
+Bringing page 11 into frame 1
+RAM: 00111111100 <-- 44
+Read transaction for logical address: 001110110010
+Page 3 is in memory
+RAM: 01010110010 --> 97
+Write transaction for logical address: 001011111100
+Page 2 is in memory
+RAM: 11011111100 <-- -120
+Read transaction for logical address: 000111001110
+Evicting page 3 (NOT DIRTY)
+Bringing page 1 into frame 2
+RAM: 01011001110 --> -89
+Write transaction for logical address: 011111100111
+Evicting page 9
+Bringing page 7 into frame 3
+RAM: 01111100111 <-- 121
+Read transaction for logical address: 010110000100
+Evicting page 10 (NOT DIRTY)
+Bringing page 5 into frame 4
+RAM: 10010000100 --> -46
+Write transaction for logical address: 011110010100
+Page 7 is in memory
+RAM: 01110010100 <-- 42
+Read transaction for logical address: 110111100011
+Page 13 is in memory
+RAM: 11111100011 --> 6
+Write transaction for logical address: 101001001110
+Evicting page 15
+Bringing page 10 into frame 5
+RAM: 10101001110 <-- -2
+Read transaction for logical address: 101000110100
+Page 10 is in memory
+RAM: 10100110100 --> 102
+Write transaction for logical address: 111001110001
+Evicting page 2
+Bringing page 14 into frame 6
+RAM: 11001110001 <-- -51
+Read transaction for logical address: 011101110000
+Page 7 is in memory
+RAM: 01101110000 --> -89
+Write transaction for logical address: 110110110111
+Page 13 is in memory
+RAM: 11110110111 <-- 28
+Read transaction for logical address: 001000001001
+Evicting page 13
+Bringing page 2 into frame 7
+RAM: 11100001001 --> 25
+Write transaction for logical address: 100010100100
+Evicting page 4 (NOT DIRTY)
+Bringing page 8 into frame 0
+RAM: 00010100100 <-- 25
+Read transaction for logical address: 010111101110
+Page 5 is in memory
+RAM: 10011101110 --> -69
+Write transaction for logical address: 010000101111
+Evicting page 11
+Bringing page 4 into frame 1
+RAM: 00100101111 <-- -106
+Read transaction for logical address: 000000011000
+Evicting page 1 (NOT DIRTY)
+Bringing page 0 into frame 2
+RAM: 01000011000 --> -33
+Write transaction for logical address: 011000000011
+Evicting page 7
+Bringing page 6 into frame 3
+RAM: 01100000011 <-- 48
+Read transaction for logical address: 101000000100
+Page 10 is in memory
+RAM: 10100000100 --> 77
+Write transaction for logical address: 000110101111
+Evicting page 5 (NOT DIRTY)
+Bringing page 1 into frame 4
+RAM: 10010101111 <-- 63
+Read transaction for logical address: 110110110101
+Evicting page 10
+Bringing page 13 into frame 5
+RAM: 10110110101 --> -50
+Write transaction for logical address: 000011001111
+Page 0 is in memory
+RAM: 01011001111 <-- -126
+Read transaction for logical address: 100100011001
+Evicting page 14
+Bringing page 9 into frame 6
+RAM: 11000011001 --> 95
+Write transaction for logical address: 101000110101
+Evicting page 2 (NOT DIRTY)
+Bringing page 10 into frame 7
+RAM: 11100110101 <-- -29
+Read transaction for logical address: 010101101010
+Evicting page 8
+Bringing page 5 into frame 0
+RAM: 00001101010 --> 15
+Write transaction for logical address: 101101111101
+Evicting page 4
+Bringing page 11 into frame 1
+RAM: 00101111101 <-- -102
+Read transaction for logical address: 010110111000
+Page 5 is in memory
+RAM: 00010111000 --> 68
+Write transaction for logical address: 010001000010
+Evicting page 0
+Bringing page 4 into frame 2
+RAM: 01001000010 <-- 33
+Read transaction for logical address: 100101111101
+Page 9 is in memory
+RAM: 11001111101 --> -117
+Write transaction for logical address: 000011101100
+Evicting page 6
+Bringing page 0 into frame 3
+RAM: 01111101100 <-- 108
+Read transaction for logical address: 010111101011
+Page 5 is in memory
+RAM: 00011101011 --> 123
+Write transaction for logical address: 001110100111
+Evicting page 1
+Bringing page 3 into frame 4
+RAM: 10010100111 <-- 78
+Read transaction for logical address: 000001010110
+Page 0 is in memory
+RAM: 01101010110 --> -30
+Write transaction for logical address: 000010011010
+Page 0 is in memory
+RAM: 01110011010 <-- 106
+Read transaction for logical address: 110010010000
+Evicting page 13 (NOT DIRTY)
+Bringing page 12 into frame 5
+RAM: 10110010000 --> 117
+Write transaction for logical address: 010001000011
+Page 4 is in memory
+RAM: 01001000011 <-- 57
+Read transaction for logical address: 100001110011
+Evicting page 9 (NOT DIRTY)
+Bringing page 8 into frame 6
+RAM: 11001110011 --> 62
+Write transaction for logical address: 001001111110
+Evicting page 10
+Bringing page 2 into frame 7
+RAM: 11101111110 <-- -103
+Read transaction for logical address: 101001000111
+Evicting page 5 (NOT DIRTY)
+Bringing page 10 into frame 0
+RAM: 00001000111 --> -49
+Write transaction for logical address: 101001111100
+Page 10 is in memory
+RAM: 00001111100 <-- -73
+Read transaction for logical address: 100010101100
+Page 8 is in memory
+RAM: 11010101100 --> -120
+Write transaction for logical address: 001110011000
+Page 3 is in memory
+RAM: 10010011000 <-- -109
+Read transaction for logical address: 010011100111
+Page 4 is in memory
+RAM: 01011100111 --> 111
+Write transaction for logical address: 011010110101
+Evicting page 11
+Bringing page 6 into frame 1
+RAM: 00110110101 <-- -18
+Read transaction for logical address: 001111101110
+Page 3 is in memory
+RAM: 10011101110 --> -113
+Write transaction for logical address: 000101101101
+Evicting page 4
+Bringing page 1 into frame 2
+RAM: 01001101101 <-- -43
+Read transaction for logical address: 100000000100
+Page 8 is in memory
+RAM: 11000000100 --> -86
+Write transaction for logical address: 001000001100
+Page 2 is in memory
+RAM: 11100001100 <-- -82
+Read transaction for logical address: 110101011001
+Evicting page 0
+Bringing page 13 into frame 3
+RAM: 01101011001 --> 96
+Write transaction for logical address: 000011110000
+Evicting page 3
+Bringing page 0 into frame 4
+RAM: 10011110000 <-- -101
+Read transaction for logical address: 100100010010
+Evicting page 12 (NOT DIRTY)
+Bringing page 9 into frame 5
+RAM: 10100010010 --> -70
+Write transaction for logical address: 000001000011
+Page 0 is in memory
+RAM: 10001000011 <-- -55
+Read transaction for logical address: 111100001001
+Evicting page 8 (NOT DIRTY)
+Bringing page 15 into frame 6
+RAM: 11000001001 --> 59
+Write transaction for logical address: 011001010001
+Page 6 is in memory
+RAM: 00101010001 <-- 55
+Read transaction for logical address: 011110100100
+Evicting page 2
+Bringing page 7 into frame 7
+RAM: 11110100100 --> 50
+Write transaction for logical address: 110100110101
+Page 13 is in memory
+RAM: 01100110101 <-- 8
+Read transaction for logical address: 100010001001
+Evicting page 10
+Bringing page 8 into frame 0
+RAM: 00010001001 --> -29
+Write transaction for logical address: 100010001010
+Page 8 is in memory
+RAM: 00010001010 <-- 33
+Read transaction for logical address: 001011110001
+Evicting page 6
+Bringing page 2 into frame 1
+RAM: 00111110001 --> -34
+Write transaction for logical address: 011111001111
+Page 7 is in memory
+RAM: 11111001111 <-- -64
+Read transaction for logical address: 111100010000
+Page 15 is in memory
+RAM: 11000010000 --> -46
+Write transaction for logical address: 001001110111
+Page 2 is in memory
+RAM: 00101110111 <-- -7
+Read transaction for logical address: 101111101001
+Evicting page 1
+Bringing page 11 into frame 2
+RAM: 01011101001 --> -49
+Write transaction for logical address: 101010111101
+Evicting page 13
+Bringing page 10 into frame 3
+RAM: 01110111101 <-- 85
+Read transaction for logical address: 111100100101
+Page 15 is in memory
+RAM: 11000100101 --> 30
+Write transaction for logical address: 100111111111
+Page 9 is in memory
+RAM: 10111111111 <-- 55
+Read transaction for logical address: 100110110101
+Page 9 is in memory
+RAM: 10110110101 --> 39
+Write transaction for logical address: 100111101010
+Page 9 is in memory
+RAM: 10111101010 <-- 33
+Read transaction for logical address: 011111110010
+Page 7 is in memory
+RAM: 11111110010 --> -75
+Write transaction for logical address: 001000110011
+Page 2 is in memory
+RAM: 00100110011 <-- 91
+Read transaction for logical address: 000111101111
+Evicting page 0
+Bringing page 1 into frame 4
+RAM: 10011101111 --> -31
+Write transaction for logical address: 000111111010
+Page 1 is in memory
+RAM: 10011111010 <-- 38
+Read transaction for logical address: 100100000110
+Page 9 is in memory
+RAM: 10100000110 --> -23
+Write transaction for logical address: 000100110101
+Page 1 is in memory
+RAM: 10000110101 <-- 75
+Read transaction for logical address: 111101011000
+Page 15 is in memory
+RAM: 11001011000 --> -46
+Write transaction for logical address: 000110000011
+Page 1 is in memory
+RAM: 10010000011 <-- -91
+Read transaction for logical address: 011001010011
+Evicting page 9
+Bringing page 6 into frame 5
+RAM: 10101010011 --> 51
+Write transaction for logical address: 101111110000
+Page 11 is in memory
+RAM: 01011110000 <-- 71
+Read transaction for logical address: 001010000110
+Page 2 is in memory
+RAM: 00110000110 --> -51
+Write transaction for logical address: 000100101101
+Page 1 is in memory
+RAM: 10000101101 <-- 64
+Read transaction for logical address: 101101010111
+Page 11 is in memory
+RAM: 01001010111 --> 37
+Write transaction for logical address: 101010010010
+Page 10 is in memory
+RAM: 01110010010 <-- 57
+Read transaction for logical address: 000101010101
+Page 1 is in memory
+RAM: 10001010101 --> -38
+Write transaction for logical address: 101110110110
+Page 11 is in memory
+RAM: 01010110110 <-- -72
+Read transaction for logical address: 110000100001
+Evicting page 15 (NOT DIRTY)
+Bringing page 12 into frame 6
+RAM: 11000100001 --> 33
+Write transaction for logical address: 110100110111
+Evicting page 7
+Bringing page 13 into frame 7
+RAM: 11100110111 <-- -105
+Read transaction for logical address: 010111000111
+Evicting page 8
+Bringing page 5 into frame 0
+RAM: 00011000111 --> 98
+Write transaction for logical address: 110010011011
+Page 12 is in memory
+RAM: 11010011011 <-- -110
+Read transaction for logical address: 010111111010
+Page 5 is in memory
+RAM: 00011111010 --> 87
+Write transaction for logical address: 010111110001
+Page 5 is in memory
+RAM: 00011110001 <-- 21
+Read transaction for logical address: 000110101100
+Page 1 is in memory
+RAM: 10010101100 --> -44
+Write transaction for logical address: 100010010011
+Evicting page 2
+Bringing page 8 into frame 1
+RAM: 00110010011 <-- 46
+Read transaction for logical address: 000101100001
+Page 1 is in memory
+RAM: 10001100001 --> -60
+Write transaction for logical address: 001101100001
+Evicting page 11
+Bringing page 3 into frame 2
+RAM: 01001100001 <-- 39
+Read transaction for logical address: 000111110100
+Page 1 is in memory
+RAM: 10011110100 --> -40
+Write transaction for logical address: 010001110001
+Evicting page 10
+Bringing page 4 into frame 3
+RAM: 01101110001 <-- 27
+Read transaction for logical address: 011101011010
+Evicting page 1
+Bringing page 7 into frame 4
+RAM: 10001011010 --> -109
+Write transaction for logical address: 011101101011
+Page 7 is in memory
+RAM: 10001101011 <-- 92
+Read transaction for logical address: 001011011110
+Evicting page 6 (NOT DIRTY)
+Bringing page 2 into frame 5
+RAM: 10111011110 --> 88
+Write transaction for logical address: 100111000010
+Evicting page 12
+Bringing page 9 into frame 6
+RAM: 11011000010 <-- -109
+Read transaction for logical address: 110100100100
+Page 13 is in memory
+RAM: 11100100100 --> -14
+Write transaction for logical address: 011010011000
+Evicting page 13
+Bringing page 6 into frame 7
+RAM: 11110011000 <-- 103
+Read transaction for logical address: 100001011110
+Page 8 is in memory
+RAM: 00101011110 --> 26
+Write transaction for logical address: 100000101110
+Page 8 is in memory
+RAM: 00100101110 <-- -74
+Read transaction for logical address: 111010100110
+Evicting page 5
+Bringing page 14 into frame 0
+RAM: 00010100110 --> -112
+Write transaction for logical address: 000111100010
+Evicting page 8
+Bringing page 1 into frame 1
+RAM: 00111100010 <-- 126
+Read transaction for logical address: 001100101011
+Page 3 is in memory
+RAM: 01000101011 --> 5
+Write transaction for logical address: 010101000000
+Evicting page 3
+Bringing page 5 into frame 2
+RAM: 01001000000 <-- -40
+Read transaction for logical address: 110111100010
+Evicting page 4
+Bringing page 13 into frame 3
+RAM: 01111100010 --> 18
+Write transaction for logical address: 111010100101
+Page 14 is in memory
+RAM: 00010100101 <-- -72
+Read transaction for logical address: 011001010010
+Page 6 is in memory
+RAM: 11101010010 --> -126
+Write transaction for logical address: 010101101010
+Page 5 is in memory
+RAM: 01001101010 <-- -21
+Read transaction for logical address: 001010010000
+Page 2 is in memory
+RAM: 10110010000 --> 4
+Write transaction for logical address: 111101010000
+Evicting page 7
+Bringing page 15 into frame 4
+RAM: 10001010000 <-- -58
+Read transaction for logical address: 100111101001
+Page 9 is in memory
+RAM: 11011101001 --> 67
+Write transaction for logical address: 100110101110
+Page 9 is in memory
+RAM: 11010101110 <-- -31
+Read transaction for logical address: 101100110111
+Evicting page 2 (NOT DIRTY)
+Bringing page 11 into frame 5
+RAM: 10100110111 --> 117
+Write transaction for logical address: 001011010100
+Evicting page 9
+Bringing page 2 into frame 6
+RAM: 11011010100 <-- -37
+Read transaction for logical address: 111110011100
+Page 15 is in memory
+RAM: 10010011100 --> 52
+Write transaction for logical address: 001010011111
+Page 2 is in memory
+RAM: 11010011111 <-- 121
+Read transaction for logical address: 100111011110
+Evicting page 6
+Bringing page 9 into frame 7
+RAM: 11111011110 --> 75
+Write transaction for logical address: 110010000100
+Evicting page 14
+Bringing page 12 into frame 0
+RAM: 00010000100 <-- -77
+Read transaction for logical address: 110110110001
+Page 13 is in memory
+RAM: 01110110001 --> -105
+Write transaction for logical address: 000100000110
+Page 1 is in memory
+RAM: 00100000110 <-- -76
+Read transaction for logical address: 001101001110
+Evicting page 1
+Bringing page 3 into frame 1
+RAM: 00101001110 --> -101
+Write transaction for logical address: 000110011001
+Evicting page 5
+Bringing page 1 into frame 2
+RAM: 01010011001 <-- -113
+Read transaction for logical address: 001011111001
+Page 2 is in memory
+RAM: 11011111001 --> 98
+Write transaction for logical address: 001000100010
+Page 2 is in memory
+RAM: 11000100010 <-- -91
+Read transaction for logical address: 101010100000
+Evicting page 13 (NOT DIRTY)
+Bringing page 10 into frame 3
+RAM: 01110100000 --> 68
+Write transaction for logical address: 001101011101
+Page 3 is in memory
+RAM: 00101011101 <-- -117
+Read transaction for logical address: 111101010100
+Page 15 is in memory
+RAM: 10001010100 --> -88
+Write transaction for logical address: 100000010110
+Evicting page 15
+Bringing page 8 into frame 4
+RAM: 10000010110 <-- 36
+Read transaction for logical address: 011101011100
+Evicting page 11 (NOT DIRTY)
+Bringing page 7 into frame 5
+RAM: 10101011100 --> -127
+Write transaction for logical address: 010010101010
+Evicting page 2
+Bringing page 4 into frame 6
+RAM: 11010101010 <-- 122
+Read transaction for logical address: 100101001111
+Page 9 is in memory
+RAM: 11101001111 --> 0
+Write transaction for logical address: 101001111111
+Page 10 is in memory
+RAM: 01101111111 <-- -17
+Read transaction for logical address: 100001001110
+Page 8 is in memory
+RAM: 10001001110 --> -8
+Write transaction for logical address: 100010001010
+Page 8 is in memory
+RAM: 10010001010 <-- -114
+Read transaction for logical address: 011100111000
+Page 7 is in memory
+RAM: 10100111000 --> 123
+Write transaction for logical address: 011111001000
+Page 7 is in memory
+RAM: 10111001000 <-- -113
+Read transaction for logical address: 001001101101
+Evicting page 9 (NOT DIRTY)
+Bringing page 2 into frame 7
+RAM: 11101101101 --> -46
+Write transaction for logical address: 100100101001
+Evicting page 12
+Bringing page 9 into frame 0
+RAM: 00000101001 <-- 23
+Read transaction for logical address: 100100000101
+Page 9 is in memory
+RAM: 00000000101 --> 17
+Write transaction for logical address: 110100101101
+Evicting page 3
+Bringing page 13 into frame 1
+RAM: 00100101101 <-- -1
+Read transaction for logical address: 101110010111
+Evicting page 1
+Bringing page 11 into frame 2
+RAM: 01010010111 --> 24
+Write transaction for logical address: 000110011000
+Evicting page 10
+Bringing page 1 into frame 3
+RAM: 01110011000 <-- 5
+Read transaction for logical address: 100011101001
+Page 8 is in memory
+RAM: 10011101001 --> -79
+Write transaction for logical address: 000110100001
+Page 1 is in memory
+RAM: 01110100001 <-- -116
+Read transaction for logical address: 100011111001
+Page 8 is in memory
+RAM: 10011111001 --> 53
+Write transaction for logical address: 000000101100
+Evicting page 8
+Bringing page 0 into frame 4
+RAM: 10000101100 <-- 123
+Read transaction for logical address: 001010010111
+Page 2 is in memory
+RAM: 11110010111 --> -54
+Write transaction for logical address: 111011110011
+Evicting page 7
+Bringing page 14 into frame 5
+RAM: 10111110011 <-- -119
+Read transaction for logical address: 001000110001
+Page 2 is in memory
+RAM: 11100110001 --> 92
+Write transaction for logical address: 010011011011
+Page 4 is in memory
+RAM: 11011011011 <-- 101
+Read transaction for logical address: 000110010001
+Page 1 is in memory
+RAM: 01110010001 --> -108
+Write transaction for logical address: 010110110101
+Evicting page 4
+Bringing page 5 into frame 6
+RAM: 11010110101 <-- -125
+Read transaction for logical address: 000110110011
+Page 1 is in memory
+RAM: 01110110011 --> 125
+Write transaction for logical address: 111010110110
+Page 14 is in memory
+RAM: 10110110110 <-- 98
+Read transaction for logical address: 010101011001
+Page 5 is in memory
+RAM: 11001011001 --> 11
+Write transaction for logical address: 111101010011
+Evicting page 2 (NOT DIRTY)
+Bringing page 15 into frame 7
+RAM: 11101010011 <-- 102
+Read transaction for logical address: 100100110000
+Page 9 is in memory
+RAM: 00000110000 --> -8
+Write transaction for logical address: 011011001110
+Evicting page 9
+Bringing page 6 into frame 0
+RAM: 00011001110 <-- -27
+Read transaction for logical address: 111001000010
+Page 14 is in memory
+RAM: 10101000010 --> 106
+Write transaction for logical address: 110110010000
+Page 13 is in memory
+RAM: 00110010000 <-- -81
+MEMORY CONTENT:
+00000000000: 2
+00000000001: -107
+00000000010: -115
+00000000011: 48
+00000000100: -73
+00000000101: 71
+00000000110: -97
+00000000111: -78
+00000001000: -75
+00000001001: 74
+00000001010: -10
+00000001011: -24
+00000001100: 47
+00000001101: 7
+00000001110: 71
+00000001111: -65
+00000010000: -72
+00000010001: 58
+00000010010: -40
+00000010011: 92
+00000010100: -36
+00000010101: 95
+00000010110: 10
+00000010111: -9
+00000011000: -115
+00000011001: 91
+00000011010: -26
+00000011011: -77
+00000011100: -125
+00000011101: -121
+00000011110: -93
+00000011111: -12
+00000100000: -101
+00000100001: -11
+00000100010: 24
+00000100011: 50
+00000100100: -112
+00000100101: 75
+00000100110: -100
+00000100111: 68
+00000101000: 66
+00000101001: 120
+00000101010: -78
+00000101011: 114
+00000101100: 3
+00000101101: 38
+00000101110: 75
+00000101111: -41
+00000110000: -51
+00000110001: 116
+00000110010: 12
+00000110011: -67
+00000110100: 70
+00000110101: 39
+00000110110: 106
+00000110111: -97
+00000111000: 12
+00000111001: -118
+00000111010: 101
+00000111011: -24
+00000111100: -2
+00000111101: -110
+00000111110: 99
+00000111111: 92
+00001000000: 59
+00001000001: -57
+00001000010: -23
+00001000011: 78
+00001000100: 71
+00001000101: -24
+00001000110: -27
+00001000111: 113
+00001001000: -103
+00001001001: 113
+00001001010: -91
+00001001011: -99
+00001001100: 110
+00001001101: -25
+00001001110: 84
+00001001111: -73
+00001010000: 75
+00001010001: 55
+00001010010: -126
+00001010011: 51
+00001010100: -6
+00001010101: -89
+00001010110: 102
+00001010111: -87
+00001011000: -123
+00001011001: 105
+00001011010: -51
+00001011011: 45
+00001011100: -111
+00001011101: -32
+00001011110: 92
+00001011111: 19
+00001100000: 22
+00001100001: -125
+00001100010: 66
+00001100011: 36
+00001100100: 101
+00001100101: -31
+00001100110: -97
+00001100111: 122
+00001101000: -69
+00001101001: -47
+00001101010: 123
+00001101011: -64
+00001101100: -107
+00001101101: 61
+00001101110: -94
+00001101111: 75
+00001110000: 22
+00001110001: 35
+00001110010: -79
+00001110011: -80
+00001110100: -13
+00001110101: 114
+00001110110: 8
+00001110111: 68
+00001111000: 69
+00001111001: -45
+00001111010: -106
+00001111011: 122
+00001111100: 123
+00001111101: -74
+00001111110: 120
+00001111111: 28
+00010000000: 9
+00010000001: -95
+00010000010: -46
+00010000011: -125
+00010000100: 119
+00010000101: -18
+00010000110: -76
+00010000111: 67
+00010001000: -38
+00010001001: -98
+00010001010: 14
+00010001011: -102
+00010001100: -11
+00010001101: 28
+00010001110: -88
+00010001111: -104
+00010010000: 117
+00010010001: -62
+00010010010: -68
+00010010011: 78
+00010010100: 112
+00010010101: -47
+00010010110: 60
+00010010111: 33
+00010011000: 103
+00010011001: -99
+00010011010: 21
+00010011011: 80
+00010011100: -32
+00010011101: -106
+00010011110: -113
+00010011111: -75
+00010100000: -69
+00010100001: 126
+00010100010: -99
+00010100011: 51
+00010100100: -114
+00010100101: -111
+00010100110: -4
+00010100111: -45
+00010101000: -90
+00010101001: -61
+00010101010: 30
+00010101011: 105
+00010101100: 96
+00010101101: 18
+00010101110: 40
+00010101111: -101
+00010110000: 4
+00010110001: -55
+00010110010: 122
+00010110011: 80
+00010110100: 117
+00010110101: -18
+00010110110: 116
+00010110111: 100
+00010111000: -111
+00010111001: -105
+00010111010: 53
+00010111011: -43
+00010111100: 73
+00010111101: 88
+00010111110: 119
+00010111111: -113
+00011000000: 40
+00011000001: 64
+00011000010: -47
+00011000011: 15
+00011000100: -64
+00011000101: -61
+00011000110: -40
+00011000111: 54
+00011001000: 57
+00011001001: 103
+00011001010: 14
+00011001011: -50
+00011001100: -64
+00011001101: 96
+00011001110: -27
+00011001111: -14
+00011010000: 50
+00011010001: -115
+00011010010: -84
+00011010011: -29
+00011010100: 71
+00011010101: -78
+00011010110: -71
+00011010111: -41
+00011011000: 59
+00011011001: -32
+00011011010: -82
+00011011011: 63
+00011011100: 33
+00011011101: -50
+00011011110: -117
+00011011111: -45
+00011100000: 25
+00011100001: -85
+00011100010: -123
+00011100011: 127
+00011100100: -91
+00011100101: -125
+00011100110: -38
+00011100111: 72
+00011101000: -81
+00011101001: 14
+00011101010: -126
+00011101011: 106
+00011101100: 35
+00011101101: -78
+00011101110: -39
+00011101111: 105
+00011110000: -61
+00011110001: -89
+00011110010: 111
+00011110011: -43
+00011110100: -12
+00011110101: 24
+00011110110: -19
+00011110111: 98
+00011111000: 103
+00011111001: 84
+00011111010: 62
+00011111011: -81
+00011111100: 58
+00011111101: 1
+00011111110: -13
+00011111111: -107
+00100000000: -85
+00100000001: 4
+00100000010: -51
+00100000011: -56
+00100000100: -113
+00100000101: 12
+00100000110: -24
+00100000111: 43
+00100001000: -38
+00100001001: -27
+00100001010: 99
+00100001011: 17
+00100001100: 107
+00100001101: 28
+00100001110: -23
+00100001111: 73
+00100010000: 121
+00100010001: 48
+00100010010: -125
+00100010011: 98
+00100010100: 13
+00100010101: -107
+00100010110: -116
+00100010111: 64
+00100011000: 58
+00100011001: -96
+00100011010: 4
+00100011011: -45
+00100011100: -79
+00100011101: -83
+00100011110: 18
+00100011111: -20
+00100100000: -11
+00100100001: 117
+00100100010: -33
+00100100011: -9
+00100100100: -14
+00100100101: 103
+00100100110: 66
+00100100111: 19
+00100101000: 24
+00100101001: -52
+00100101010: -27
+00100101011: 41
+00100101100: 32
+00100101101: -1
+00100101110: -84
+00100101111: -114
+00100110000: -71
+00100110001: 126
+00100110010: -10
+00100110011: -116
+00100110100: 109
+00100110101: 8
+00100110110: -4
+00100110111: -105
+00100111000: 7
+00100111001: -39
+00100111010: 123
+00100111011: 99
+00100111100: 37
+00100111101: 29
+00100111110: -118
+00100111111: -38
+00101000000: 48
+00101000001: 67
+00101000010: -74
+00101000011: 45
+00101000100: 66
+00101000101: -76
+00101000110: -32
+00101000111: -75
+00101001000: -16
+00101001001: 94
+00101001010: 89
+00101001011: -107
+00101001100: 31
+00101001101: 31
+00101001110: 122
+00101001111: 69
+00101010000: 108
+00101010001: -98
+00101010010: 110
+00101010011: 122
+00101010100: 22
+00101010101: -33
+00101010110: 50
+00101010111: 2
+00101011000: 2
+00101011001: 96
+00101011010: 101
+00101011011: -5
+00101011100: 70
+00101011101: -8
+00101011110: -81
+00101011111: 91
+00101100000: 54
+00101100001: -53
+00101100010: -120
+00101100011: 97
+00101100100: -23
+00101100101: 89
+00101100110: -19
+00101100111: 94
+00101101000: -25
+00101101001: 93
+00101101010: 68
+00101101011: 121
+00101101100: -55
+00101101101: -72
+00101101110: -75
+00101101111: 96
+00101110000: 102
+00101110001: 30
+00101110010: -118
+00101110011: 121
+00101110100: -30
+00101110101: 41
+00101110110: -80
+00101110111: 75
+00101111000: 55
+00101111001: 14
+00101111010: 110
+00101111011: 92
+00101111100: 54
+00101111101: -127
+00101111110: -70
+00101111111: 113
+00110000000: 117
+00110000001: -110
+00110000010: 55
+00110000011: -75
+00110000100: 82
+00110000101: -71
+00110000110: -54
+00110000111: 119
+00110001000: 49
+00110001001: 98
+00110001010: -123
+00110001011: 61
+00110001100: 31
+00110001101: -126
+00110001110: -23
+00110001111: -88
+00110010000: -81
+00110010001: -8
+00110010010: 37
+00110010011: -56
+00110010100: -14
+00110010101: 25
+00110010110: 103
+00110010111: -84
+00110011000: -88
+00110011001: -43
+00110011010: -4
+00110011011: -96
+00110011100: -7
+00110011101: -61
+00110011110: 62
+00110011111: -101
+00110100000: 110
+00110100001: -31
+00110100010: 43
+00110100011: 51
+00110100100: 111
+00110100101: -89
+00110100110: -118
+00110100111: 102
+00110101000: 58
+00110101001: 57
+00110101010: 60
+00110101011: -103
+00110101100: 71
+00110101101: 61
+00110101110: 57
+00110101111: -54
+00110110000: 36
+00110110001: -105
+00110110010: 71
+00110110011: 127
+00110110100: 94
+00110110101: -50
+00110110110: 99
+00110110111: 28
+00110111000: -56
+00110111001: 107
+00110111010: 28
+00110111011: -50
+00110111100: -9
+00110111101: 116
+00110111110: 22
+00110111111: 23
+00111000000: 55
+00111000001: -77
+00111000010: 28
+00111000011: -108
+00111000100: 54
+00111000101: -6
+00111000110: -52
+00111000111: -113
+00111001000: 33
+00111001001: -73
+00111001010: -32
+00111001011: -47
+00111001100: 11
+00111001101: 63
+00111001110: 57
+00111001111: -40
+00111010000: -77
+00111010001: 45
+00111010010: 90
+00111010011: 33
+00111010100: -84
+00111010101: -14
+00111010110: 24
+00111010111: 96
+00111011000: 0
+00111011001: -60
+00111011010: 28
+00111011011: -102
+00111011100: 123
+00111011101: -115
+00111011110: 47
+00111011111: -55
+00111100000: -6
+00111100001: -13
+00111100010: 18
+00111100011: 6
+00111100100: 31
+00111100101: 37
+00111100110: 57
+00111100111: -128
+00111101000: 56
+00111101001: 89
+00111101010: 113
+00111101011: -10
+00111101100: 89
+00111101101: -97
+00111101110: -56
+00111101111: 40
+00111110000: 31
+00111110001: 93
+00111110010: 32
+00111110011: -57
+00111110100: 104
+00111110101: -91
+00111110110: -62
+00111110111: 91
+00111111000: 45
+00111111001: 66
+00111111010: -7
+00111111011: 54
+00111111100: 54
+00111111101: -112
+00111111110: 9
+00111111111: 93
+01000000000: 122
+01000000001: -65
+01000000010: 59
+01000000011: 32
+01000000100: -94
+01000000101: 25
+01000000110: 24
+01000000111: -123
+01000001000: 73
+01000001001: 125
+01000001010: -11
+01000001011: 43
+01000001100: 109
+01000001101: -124
+01000001110: -3
+01000001111: -63
+01000010000: 70
+01000010001: -103
+01000010010: 54
+01000010011: -26
+01000010100: -32
+01000010101: 32
+01000010110: 120
+01000010111: 84
+01000011000: -47
+01000011001: -16
+01000011010: -109
+01000011011: 69
+01000011100: -70
+01000011101: -108
+01000011110: 118
+01000011111: -67
+01000100000: -119
+01000100001: -41
+01000100010: 121
+01000100011: 52
+01000100100: 81
+01000100101: 83
+01000100110: -68
+01000100111: 44
+01000101000: 124
+01000101001: 43
+01000101010: -59
+01000101011: -7
+01000101100: -89
+01000101101: 113
+01000101110: -10
+01000101111: -120
+01000110000: -98
+01000110001: -106
+01000110010: -82
+01000110011: -46
+01000110100: 91
+01000110101: -112
+01000110110: -21
+01000110111: 117
+01000111000: -74
+01000111001: -66
+01000111010: -10
+01000111011: 5
+01000111100: -102
+01000111101: 53
+01000111110: 2
+01000111111: 40
+01001000000: -112
+01001000001: 92
+01001000010: 104
+01001000011: -28
+01001000100: 123
+01001000101: 33
+01001000110: -5
+01001000111: 68
+01001001000: -64
+01001001001: 21
+01001001010: 67
+01001001011: 18
+01001001100: 106
+01001001101: 113
+01001001110: 37
+01001001111: -78
+01001010000: -128
+01001010001: -63
+01001010010: 56
+01001010011: 72
+01001010100: 77
+01001010101: 91
+01001010110: -1
+01001010111: 37
+01001011000: -97
+01001011001: 26
+01001011010: -67
+01001011011: -37
+01001011100: 70
+01001011101: -7
+01001011110: -80
+01001011111: 48
+01001100000: 40
+01001100001: -120
+01001100010: 49
+01001100011: 107
+01001100100: 73
+01001100101: -112
+01001100110: -18
+01001100111: 104
+01001101000: 87
+01001101001: -36
+01001101010: 28
+01001101011: 102
+01001101100: -43
+01001101101: 27
+01001101110: -97
+01001101111: 89
+01001110000: 119
+01001110001: 110
+01001110010: -54
+01001110011: -76
+01001110100: 16
+01001110101: 20
+01001110110: -29
+01001110111: -80
+01001111000: 89
+01001111001: 27
+01001111010: -70
+01001111011: -108
+01001111100: -97
+01001111101: -102
+01001111110: 50
+01001111111: -33
+01010000000: 126
+01010000001: 81
+01010000010: -95
+01010000011: 64
+01010000100: -24
+01010000101: 91
+01010000110: 81
+01010000111: 17
+01010001000: 57
+01010001001: -87
+01010001010: 62
+01010001011: 93
+01010001100: -85
+01010001101: 98
+01010001110: -64
+01010001111: -102
+01010010000: 67
+01010010001: 118
+01010010010: -32
+01010010011: 25
+01010010100: -59
+01010010101: 119
+01010010110: 115
+01010010111: 24
+01010011000: -11
+01010011001: -113
+01010011010: 39
+01010011011: 117
+01010011100: 104
+01010011101: -121
+01010011110: 52
+01010011111: -83
+01010100000: -43
+01010100001: 11
+01010100010: -128
+01010100011: -36
+01010100100: 10
+01010100101: 109
+01010100110: 123
+01010100111: 2
+01010101000: -113
+01010101001: 50
+01010101010: 47
+01010101011: 73
+01010101100: -48
+01010101101: -95
+01010101110: -102
+01010101111: 57
+01010110000: -96
+01010110001: 58
+01010110010: 85
+01010110011: 114
+01010110100: 78
+01010110101: 53
+01010110110: -72
+01010110111: -70
+01010111000: -77
+01010111001: -31
+01010111010: -91
+01010111011: -26
+01010111100: -54
+01010111101: -117
+01010111110: -39
+01010111111: 52
+01011000000: 2
+01011000001: 85
+01011000010: 50
+01011000011: -26
+01011000100: 98
+01011000101: 101
+01011000110: -63
+01011000111: -55
+01011001000: 57
+01011001001: -115
+01011001010: -7
+01011001011: 36
+01011001100: -49
+01011001101: 63
+01011001110: -95
+01011001111: 122
+01011010000: 29
+01011010001: -3
+01011010010: -128
+01011010011: -128
+01011010100: -109
+01011010101: -64
+01011010110: -63
+01011010111: -67
+01011011000: -78
+01011011001: -111
+01011011010: -14
+01011011011: -95
+01011011100: -48
+01011011101: 82
+01011011110: -39
+01011011111: 9
+01011100000: -18
+01011100001: 83
+01011100010: -8
+01011100011: -19
+01011100100: 43
+01011100101: 60
+01011100110: -119
+01011100111: 13
+01011101000: 73
+01011101001: -49
+01011101010: 56
+01011101011: 120
+01011101100: 87
+01011101101: -34
+01011101110: 58
+01011101111: 121
+01011110000: 71
+01011110001: -123
+01011110010: -98
+01011110011: -48
+01011110100: 62
+01011110101: 55
+01011110110: 87
+01011110111: 114
+01011111000: 59
+01011111001: -128
+01011111010: -97
+01011111011: 121
+01011111100: 44
+01011111101: 7
+01011111110: 51
+01011111111: 46
+01100000000: -3
+01100000001: -49
+01100000010: -1
+01100000011: -125
+01100000100: 94
+01100000101: 51
+01100000110: -76
+01100000111: 41
+01100001000: -26
+01100001001: 52
+01100001010: 111
+01100001011: -64
+01100001100: 110
+01100001101: 1
+01100001110: -27
+01100001111: -66
+01100010000: 112
+01100010001: 92
+01100010010: -43
+01100010011: -38
+01100010100: 78
+01100010101: 123
+01100010110: 92
+01100010111: 72
+01100011000: 101
+01100011001: -88
+01100011010: -121
+01100011011: -39
+01100011100: 77
+01100011101: -123
+01100011110: -34
+01100011111: -74
+01100100000: 73
+01100100001: 112
+01100100010: 78
+01100100011: -26
+01100100100: 105
+01100100101: -47
+01100100110: -60
+01100100111: -116
+01100101000: 67
+01100101001: 62
+01100101010: -98
+01100101011: -102
+01100101100: 35
+01100101101: 64
+01100101110: 110
+01100101111: 89
+01100110000: -77
+01100110001: 97
+01100110010: 65
+01100110011: 68
+01100110100: 47
+01100110101: 75
+01100110110: -112
+01100110111: 73
+01100111000: 36
+01100111001: 27
+01100111010: 88
+01100111011: -28
+01100111100: 43
+01100111101: -61
+01100111110: 50
+01100111111: -11
+01101000000: -86
+01101000001: -38
+01101000010: -88
+01101000011: 28
+01101000100: -75
+01101000101: -15
+01101000110: 127
+01101000111: -15
+01101001000: -1
+01101001001: -92
+01101001010: 33
+01101001011: -12
+01101001100: -105
+01101001101: -83
+01101001110: 50
+01101001111: 57
+01101010000: -50
+01101010001: 72
+01101010010: -4
+01101010011: -113
+01101010100: -18
+01101010101: -38
+01101010110: -6
+01101010111: 96
+01101011000: 19
+01101011001: 125
+01101011010: 91
+01101011011: 61
+01101011100: 108
+01101011101: -109
+01101011110: -52
+01101011111: -12
+01101100000: 122
+01101100001: -60
+01101100010: 15
+01101100011: -36
+01101100100: 43
+01101100101: 83
+01101100110: -85
+01101100111: 115
+01101101000: 28
+01101101001: -91
+01101101010: 6
+01101101011: -101
+01101101100: -87
+01101101101: -43
+01101101110: -69
+01101101111: -101
+01101110000: 21
+01101110001: 107
+01101110010: -120
+01101110011: 56
+01101110100: -28
+01101110101: 42
+01101110110: 68
+01101110111: 40
+01101111000: -62
+01101111001: 67
+01101111010: 5
+01101111011: 118
+01101111100: 90
+01101111101: -38
+01101111110: -44
+01101111111: -49
+01110000000: -122
+01110000001: 80
+01110000010: -78
+01110000011: -91
+01110000100: -72
+01110000101: -4
+01110000110: -122
+01110000111: -71
+01110001000: 46
+01110001001: -68
+01110001010: -64
+01110001011: 86
+01110001100: -36
+01110001101: 1
+01110001110: -3
+01110001111: -124
+01110010000: -81
+01110010001: -108
+01110010010: -25
+01110010011: 35
+01110010100: -78
+01110010101: -65
+01110010110: -32
+01110010111: 16
+01110011000: 5
+01110011001: -113
+01110011010: -19
+01110011011: 88
+01110011100: 120
+01110011101: 37
+01110011110: -107
+01110011111: -54
+01110100000: 51
+01110100001: -116
+01110100010: -83
+01110100011: 123
+01110100100: -51
+01110100101: -71
+01110100110: -58
+01110100111: 60
+01110101000: -118
+01110101001: -84
+01110101010: -82
+01110101011: 53
+01110101100: -44
+01110101101: 76
+01110101110: 35
+01110101111: 63
+01110110000: 23
+01110110001: 95
+01110110010: 95
+01110110011: 125
+01110110100: -71
+01110110101: -106
+01110110110: -111
+01110110111: -43
+01110111000: -48
+01110111001: 76
+01110111010: 7
+01110111011: -5
+01110111100: -80
+01110111101: 64
+01110111110: -57
+01110111111: 61
+01111000000: -78
+01111000001: -63
+01111000010: -13
+01111000011: -100
+01111000100: -33
+01111000101: -90
+01111000110: 44
+01111000111: 3
+01111001000: 100
+01111001001: 78
+01111001010: -63
+01111001011: 121
+01111001100: -35
+01111001101: -117
+01111001110: -89
+01111001111: 52
+01111010000: -98
+01111010001: 51
+01111010010: 29
+01111010011: -117
+01111010100: -93
+01111010101: -118
+01111010110: -53
+01111010111: -106
+01111011000: 14
+01111011001: -63
+01111011010: 88
+01111011011: 74
+01111011100: 35
+01111011101: 8
+01111011110: 15
+01111011111: 17
+01111100000: 38
+01111100001: -88
+01111100010: 126
+01111100011: 98
+01111100100: -24
+01111100101: -51
+01111100110: 56
+01111100111: 54
+01111101000: -78
+01111101001: 51
+01111101010: -36
+01111101011: -78
+01111101100: 100
+01111101101: -111
+01111101110: 35
+01111101111: -31
+01111110000: -26
+01111110001: 27
+01111110010: 101
+01111110011: -5
+01111110100: -40
+01111110101: 55
+01111110110: 116
+01111110111: 126
+01111111000: -60
+01111111001: -62
+01111111010: 38
+01111111011: 32
+01111111100: 0
+01111111101: -31
+01111111110: 98
+01111111111: -32
+10000000000: 105
+10000000001: 27
+10000000010: 13
+10000000011: 19
+10000000100: 61
+10000000101: 0
+10000000110: 37
+10000000111: -58
+10000001000: 41
+10000001001: 32
+10000001010: 103
+10000001011: 33
+10000001100: 7
+10000001101: -104
+10000001110: -9
+10000001111: -120
+10000010000: -64
+10000010001: 126
+10000010010: 80
+10000010011: 23
+10000010100: -3
+10000010101: -96
+10000010110: 16
+10000010111: -118
+10000011000: -33
+10000011001: 42
+10000011010: 70
+10000011011: 100
+10000011100: 8
+10000011101: -31
+10000011110: -17
+10000011111: -43
+10000100000: 67
+10000100001: 85
+10000100010: -58
+10000100011: 104
+10000100100: -112
+10000100101: -97
+10000100110: -13
+10000100111: -106
+10000101000: -116
+10000101001: -101
+10000101010: 104
+10000101011: 87
+10000101100: 123
+10000101101: -35
+10000101110: -9
+10000101111: -18
+10000110000: -88
+10000110001: -118
+10000110010: -24
+10000110011: -50
+10000110100: 45
+10000110101: -101
+10000110110: -52
+10000110111: -105
+10000111000: -88
+10000111001: -63
+10000111010: -24
+10000111011: 66
+10000111100: 120
+10000111101: 119
+10000111110: -34
+10000111111: -27
+10001000000: 54
+10001000001: -91
+10001000010: -86
+10001000011: -55
+10001000100: 102
+10001000101: 47
+10001000110: 23
+10001000111: -35
+10001001000: -97
+10001001001: -59
+10001001010: -74
+10001001011: 31
+10001001100: 12
+10001001101: 15
+10001001110: 64
+10001001111: 35
+10001010000: -101
+10001010001: 23
+10001010010: -79
+10001010011: 78
+10001010100: -84
+10001010101: -48
+10001010110: -30
+10001010111: -101
+10001011000: -31
+10001011001: -110
+10001011010: 8
+10001011011: -71
+10001011100: 90
+10001011101: 117
+10001011110: -64
+10001011111: -104
+10001100000: -4
+10001100001: -43
+10001100010: 23
+10001100011: 94
+10001100100: 44
+10001100101: 47
+10001100110: -127
+10001100111: 85
+10001101000: -124
+10001101001: -90
+10001101010: 73
+10001101011: 110
+10001101100: -101
+10001101101: -37
+10001101110: 3
+10001101111: -102
+10001110000: 76
+10001110001: 112
+10001110010: -55
+10001110011: 123
+10001110100: -6
+10001110101: -16
+10001110110: 26
+10001110111: 4
+10001111000: 100
+10001111001: 68
+10001111010: 66
+10001111011: 73
+10001111100: 45
+10001111101: -101
+10001111110: 12
+10001111111: 107
+10010000000: -32
+10010000001: 87
+10010000010: -12
+10010000011: 93
+10010000100: 16
+10010000101: -60
+10010000110: 89
+10010000111: -118
+10010001000: -111
+10010001001: -76
+10010001010: 96
+10010001011: 29
+10010001100: 41
+10010001101: 94
+10010001110: 48
+10010001111: 21
+10010010000: 67
+10010010001: -26
+10010010010: -11
+10010010011: -86
+10010010100: -106
+10010010101: 12
+10010010110: -78
+10010010111: 47
+10010011000: -66
+10010011001: -109
+10010011010: 106
+10010011011: 82
+10010011100: 85
+10010011101: 65
+10010011110: 104
+10010011111: -22
+10010100000: 70
+10010100001: -93
+10010100010: -87
+10010100011: 33
+10010100100: 99
+10010100101: -77
+10010100110: -8
+10010100111: -71
+10010101000: -4
+10010101001: 85
+10010101010: 43
+10010101011: -114
+10010101100: 61
+10010101101: -80
+10010101110: 102
+10010101111: 31
+10010110000: 92
+10010110001: 88
+10010110010: 34
+10010110011: -67
+10010110100: -61
+10010110101: -40
+10010110110: -87
+10010110111: -46
+10010111000: -92
+10010111001: 125
+10010111010: -124
+10010111011: 75
+10010111100: -101
+10010111101: 95
+10010111110: -20
+10010111111: -115
+10011000000: 36
+10011000001: 67
+10011000010: 82
+10011000011: 104
+10011000100: 122
+10011000101: 111
+10011000110: -43
+10011000111: 88
+10011001000: -61
+10011001001: 51
+10011001010: 119
+10011001011: -93
+10011001100: -1
+10011001101: 9
+10011001110: -120
+10011001111: -126
+10011010000: 69
+10011010001: 9
+10011010010: 63
+10011010011: -50
+10011010100: 9
+10011010101: 4
+10011010110: -67
+10011010111: -106
+10011011000: 16
+10011011001: 56
+10011011010: 94
+10011011011: -118
+10011011100: -85
+10011011101: -46
+10011011110: -126
+10011011111: -3
+10011100000: -127
+10011100001: 23
+10011100010: 48
+10011100011: 46
+10011100100: 47
+10011100101: 52
+10011100110: -122
+10011100111: -1
+10011101000: 26
+10011101001: 92
+10011101010: -22
+10011101011: -17
+10011101100: 108
+10011101101: 114
+10011101110: 117
+10011101111: -70
+10011110000: -101
+10011110001: -58
+10011110010: 113
+10011110011: 105
+10011110100: -78
+10011110101: -102
+10011110110: -83
+10011110111: -12
+10011111000: -64
+10011111001: -3
+10011111010: -110
+10011111011: 9
+10011111100: -105
+10011111101: -93
+10011111110: 32
+10011111111: 43
+10100000000: 116
+10100000001: 15
+10100000010: 71
+10100000011: -1
+10100000100: -88
+10100000101: -27
+10100000110: 86
+10100000111: 115
+10100001000: -122
+10100001001: -72
+10100001010: -29
+10100001011: 97
+10100001100: -60
+10100001101: -7
+10100001110: -48
+10100001111: -72
+10100010000: 97
+10100010001: 43
+10100010010: 76
+10100010011: -60
+10100010100: -116
+10100010101: 106
+10100010110: -111
+10100010111: 65
+10100011000: 32
+10100011001: 77
+10100011010: 78
+10100011011: -10
+10100011100: -21
+10100011101: -117
+10100011110: -32
+10100011111: 88
+10100100000: 119
+10100100001: -49
+10100100010: -79
+10100100011: 32
+10100100100: -47
+10100100101: -1
+10100100110: 101
+10100100111: 123
+10100101000: 69
+10100101001: -52
+10100101010: 64
+10100101011: 27
+10100101100: 112
+10100101101: -66
+10100101110: 13
+10100101111: 120
+10100110000: -60
+10100110001: 73
+10100110010: -81
+10100110011: 29
+10100110100: 10
+10100110101: 49
+10100110110: -113
+10100110111: 114
+10100111000: 29
+10100111001: 73
+10100111010: -26
+10100111011: -85
+10100111100: 5
+10100111101: 1
+10100111110: -55
+10100111111: 114
+10101000000: 104
+10101000001: -118
+10101000010: 106
+10101000011: 13
+10101000100: -95
+10101000101: 10
+10101000110: 101
+10101000111: -38
+10101001000: 100
+10101001001: -4
+10101001010: 22
+10101001011: -59
+10101001100: 107
+10101001101: 16
+10101001110: 61
+10101001111: -5
+10101010000: 104
+10101010001: -85
+10101010010: -67
+10101010011: 71
+10101010100: 27
+10101010101: 103
+10101010110: 112
+10101010111: 94
+10101011000: 93
+10101011001: 66
+10101011010: 43
+10101011011: -96
+10101011100: -18
+10101011101: 75
+10101011110: 62
+10101011111: -97
+10101100000: -63
+10101100001: -95
+10101100010: 44
+10101100011: -27
+10101100100: -97
+10101100101: 76
+10101100110: -113
+10101100111: -112
+10101101000: 5
+10101101001: 4
+10101101010: 44
+10101101011: 39
+10101101100: -128
+10101101101: -36
+10101101110: 81
+10101101111: -62
+10101110000: -64
+10101110001: -51
+10101110010: 92
+10101110011: 17
+10101110100: -72
+10101110101: 30
+10101110110: -61
+10101110111: -90
+10101111000: -116
+10101111001: -1
+10101111010: 3
+10101111011: 123
+10101111100: -74
+10101111101: -101
+10101111110: -27
+10101111111: -2
+10110000000: -112
+10110000001: 80
+10110000010: -98
+10110000011: -63
+10110000100: 89
+10110000101: -88
+10110000110: 9
+10110000111: 68
+10110001000: 30
+10110001001: -92
+10110001010: -104
+10110001011: -12
+10110001100: 98
+10110001101: -85
+10110001110: -47
+10110001111: -110
+10110010000: 20
+10110010001: 5
+10110010010: 55
+10110010011: 58
+10110010100: 33
+10110010101: 66
+10110010110: 46
+10110010111: -18
+10110011000: 75
+10110011001: 116
+10110011010: -24
+10110011011: -126
+10110011100: -127
+10110011101: 123
+10110011110: -121
+10110011111: 53
+10110100000: -9
+10110100001: -55
+10110100010: 50
+10110100011: 47
+10110100100: -32
+10110100101: -72
+10110100110: -112
+10110100111: -83
+10110101000: 95
+10110101001: 37
+10110101010: -72
+10110101011: -125
+10110101100: 47
+10110101101: -120
+10110101110: -90
+10110101111: 27
+10110110000: 0
+10110110001: -41
+10110110010: 20
+10110110011: 33
+10110110100: 90
+10110110101: -97
+10110110110: 98
+10110110111: -25
+10110111000: -81
+10110111001: -21
+10110111010: 54
+10110111011: 19
+10110111100: -40
+10110111101: -22
+10110111110: -127
+10110111111: 2
+10111000000: -86
+10111000001: -89
+10111000010: -63
+10111000011: 27
+10111000100: 74
+10111000101: 62
+10111000110: 57
+10111000111: 26
+10111001000: -32
+10111001001: -85
+10111001010: -107
+10111001011: 72
+10111001100: 74
+10111001101: -51
+10111001110: 49
+10111001111: -100
+10111010000: -13
+10111010001: -4
+10111010010: -24
+10111010011: 75
+10111010100: -87
+10111010101: 89
+10111010110: 33
+10111010111: 62
+10111011000: -64
+10111011001: 2
+10111011010: 20
+10111011011: 98
+10111011100: 39
+10111011101: -26
+10111011110: 53
+10111011111: 65
+10111100000: 116
+10111100001: -88
+10111100010: 45
+10111100011: 30
+10111100100: 47
+10111100101: 122
+10111100110: -105
+10111100111: 90
+10111101000: 118
+10111101001: 88
+10111101010: -63
+10111101011: 81
+10111101100: 71
+10111101101: -3
+10111101110: -42
+10111101111: -65
+10111110000: -59
+10111110001: 116
+10111110010: 17
+10111110011: -119
+10111110100: 26
+10111110101: 20
+10111110110: 53
+10111110111: 0
+10111111000: -5
+10111111001: 114
+10111111010: 95
+10111111011: 53
+10111111100: 62
+10111111101: 63
+10111111110: 44
+10111111111: 54
+11000000000: 50
+11000000001: 104
+11000000010: -83
+11000000011: 114
+11000000100: 0
+11000000101: 103
+11000000110: 120
+11000000111: 117
+11000001000: -60
+11000001001: -57
+11000001010: 4
+11000001011: 37
+11000001100: 9
+11000001101: -64
+11000001110: 71
+11000001111: -15
+11000010000: -118
+11000010001: 30
+11000010010: -81
+11000010011: 70
+11000010100: -33
+11000010101: 24
+11000010110: -11
+11000010111: -122
+11000011000: -93
+11000011001: 39
+11000011010: -124
+11000011011: 48
+11000011100: -53
+11000011101: 48
+11000011110: -100
+11000011111: -107
+11000100000: 4
+11000100001: 87
+11000100010: -37
+11000100011: 31
+11000100100: 83
+11000100101: 75
+11000100110: -17
+11000100111: -47
+11000101000: -106
+11000101001: -19
+11000101010: -125
+11000101011: 17
+11000101100: -109
+11000101101: -73
+11000101110: 104
+11000101111: -28
+11000110000: 76
+11000110001: 104
+11000110010: -31
+11000110011: -80
+11000110100: 106
+11000110101: -26
+11000110110: -103
+11000110111: -21
+11000111000: -111
+11000111001: -92
+11000111010: 79
+11000111011: 3
+11000111100: -80
+11000111101: 14
+11000111110: -94
+11000111111: 85
+11001000000: -40
+11001000001: 93
+11001000010: 12
+11001000011: -68
+11001000100: -53
+11001000101: 118
+11001000110: -15
+11001000111: 93
+11001001000: -37
+11001001001: 45
+11001001010: 108
+11001001011: -2
+11001001100: 97
+11001001101: 125
+11001001110: 116
+11001001111: 124
+11001010000: 26
+11001010001: -23
+11001010010: 58
+11001010011: -58
+11001010100: -9
+11001010101: 82
+11001010110: 21
+11001010111: 118
+11001011000: 4
+11001011001: 11
+11001011010: 69
+11001011011: 28
+11001011100: -69
+11001011101: -116
+11001011110: 109
+11001011111: -19
+11001100000: 58
+11001100001: 69
+11001100010: -64
+11001100011: 8
+11001100100: -13
+11001100101: 15
+11001100110: -13
+11001100111: 59
+11001101000: 22
+11001101001: -45
+11001101010: -21
+11001101011: 104
+11001101100: -48
+11001101101: -90
+11001101110: 70
+11001101111: 20
+11001110000: -57
+11001110001: 74
+11001110010: -31
+11001110011: -14
+11001110100: 95
+11001110101: 79
+11001110110: -36
+11001110111: -126
+11001111000: 10
+11001111001: 71
+11001111010: 85
+11001111011: 101
+11001111100: 13
+11001111101: 4
+11001111110: 10
+11001111111: -119
+11010000000: -104
+11010000001: 94
+11010000010: 90
+11010000011: -98
+11010000100: -46
+11010000101: 6
+11010000110: -93
+11010000111: -16
+11010001000: 125
+11010001001: -71
+11010001010: -110
+11010001011: 15
+11010001100: 14
+11010001101: -118
+11010001110: -7
+11010001111: 111
+11010010000: -5
+11010010001: 1
+11010010010: 32
+11010010011: -120
+11010010100: -61
+11010010101: -96
+11010010110: 37
+11010010111: 59
+11010011000: -93
+11010011001: -67
+11010011010: 93
+11010011011: -10
+11010011100: -86
+11010011101: -123
+11010011110: -51
+11010011111: -73
+11010100000: -56
+11010100001: 61
+11010100010: 87
+11010100011: -69
+11010100100: -65
+11010100101: 127
+11010100110: 4
+11010100111: -68
+11010101000: 124
+11010101001: 81
+11010101010: -97
+11010101011: 45
+11010101100: -63
+11010101101: 82
+11010101110: 73
+11010101111: 59
+11010110000: -78
+11010110001: 84
+11010110010: -65
+11010110011: -42
+11010110100: 5
+11010110101: -125
+11010110110: -50
+11010110111: -115
+11010111000: 68
+11010111001: -28
+11010111010: 26
+11010111011: -67
+11010111100: -7
+11010111101: 74
+11010111110: -38
+11010111111: 109
+11011000000: -32
+11011000001: -85
+11011000010: -101
+11011000011: -45
+11011000100: -115
+11011000101: 127
+11011000110: -117
+11011000111: 98
+11011001000: 47
+11011001001: 114
+11011001010: -55
+11011001011: -100
+11011001100: 51
+11011001101: -102
+11011001110: -76
+11011001111: -13
+11011010000: -69
+11011010001: -80
+11011010010: -59
+11011010011: 17
+11011010100: -113
+11011010101: -30
+11011010110: 100
+11011010111: 99
+11011011000: 85
+11011011001: 26
+11011011010: -42
+11011011011: 119
+11011011100: 71
+11011011101: -90
+11011011110: 11
+11011011111: 62
+11011100000: 9
+11011100001: -15
+11011100010: 98
+11011100011: 62
+11011100100: -74
+11011100101: -120
+11011100110: -114
+11011100111: -126
+11011101000: -21
+11011101001: -5
+11011101010: -120
+11011101011: 123
+11011101100: 39
+11011101101: -96
+11011101110: -69
+11011101111: -16
+11011110000: 58
+11011110001: 21
+11011110010: -99
+11011110011: -98
+11011110100: -124
+11011110101: 68
+11011110110: -63
+11011110111: -47
+11011111000: -77
+11011111001: 53
+11011111010: 87
+11011111011: 127
+11011111100: 68
+11011111101: 43
+11011111110: 125
+11011111111: -39
+11100000000: -78
+11100000001: -66
+11100000010: -76
+11100000011: 75
+11100000100: 45
+11100000101: 28
+11100000110: -37
+11100000111: -32
+11100001000: -56
+11100001001: 59
+11100001010: -73
+11100001011: 120
+11100001100: 3
+11100001101: 99
+11100001110: -70
+11100001111: 51
+11100010000: -46
+11100010001: -108
+11100010010: -94
+11100010011: -118
+11100010100: -5
+11100010101: -97
+11100010110: 7
+11100010111: -102
+11100011000: -47
+11100011001: -84
+11100011010: 71
+11100011011: 57
+11100011100: -47
+11100011101: 37
+11100011110: 6
+11100011111: 5
+11100100000: -42
+11100100001: 110
+11100100010: -61
+11100100011: 8
+11100100100: 101
+11100100101: 30
+11100100110: -74
+11100100111: -81
+11100101000: -79
+11100101001: 24
+11100101010: 66
+11100101011: -70
+11100101100: 81
+11100101101: -31
+11100101110: -116
+11100101111: 29
+11100110000: 64
+11100110001: -45
+11100110010: 79
+11100110011: 119
+11100110100: -121
+11100110101: 100
+11100110110: -93
+11100110111: 8
+11100111000: 38
+11100111001: 66
+11100111010: 70
+11100111011: 116
+11100111100: -8
+11100111101: -65
+11100111110: 92
+11100111111: -111
+11101000000: -27
+11101000001: 125
+11101000010: 101
+11101000011: 100
+11101000100: -5
+11101000101: -15
+11101000110: 29
+11101000111: -19
+11101001000: -66
+11101001001: -10
+11101001010: -125
+11101001011: -114
+11101001100: -82
+11101001101: 83
+11101001110: -47
+11101001111: -50
+11101010000: -58
+11101010001: -37
+11101010010: -38
+11101010011: 102
+11101010100: -88
+11101010101: 43
+11101010110: 20
+11101010111: -30
+11101011000: -46
+11101011001: 32
+11101011010: -113
+11101011011: -7
+11101011100: -80
+11101011101: 114
+11101011110: 48
+11101011111: -25
+11101100000: -6
+11101100001: -17
+11101100010: -83
+11101100011: -106
+11101100100: -103
+11101100101: -37
+11101100110: 57
+11101100111: 20
+11101101000: -77
+11101101001: -124
+11101101010: -114
+11101101011: 65
+11101101100: 66
+11101101101: -63
+11101101110: 61
+11101101111: 26
+11101110000: 91
+11101110001: -10
+11101110010: -45
+11101110011: -66
+11101110100: -42
+11101110101: -57
+11101110110: -32
+11101110111: -5
+11101111000: 35
+11101111001: -99
+11101111010: -56
+11101111011: -56
+11101111100: 87
+11101111101: 52
+11101111110: -105
+11101111111: -126
+11110000000: -63
+11110000001: 86
+11110000010: -80
+11110000011: 43
+11110000100: -20
+11110000101: 95
+11110000110: 16
+11110000111: -10
+11110001000: 7
+11110001001: 75
+11110001010: -75
+11110001011: -64
+11110001100: -84
+11110001101: -112
+11110001110: 24
+11110001111: 91
+11110010000: 2
+11110010001: -66
+11110010010: -50
+11110010011: -114
+11110010100: 97
+11110010101: -57
+11110010110: -128
+11110010111: -1
+11110011000: 89
+11110011001: 76
+11110011010: 66
+11110011011: 27
+11110011100: 52
+11110011101: -13
+11110011110: -77
+11110011111: 88
+11110100000: -4
+11110100001: 111
+11110100010: -27
+11110100011: 61
+11110100100: 38
+11110100101: -64
+11110100110: -59
+11110100111: -64
+11110101000: 99
+11110101001: -82
+11110101010: 3
+11110101011: -20
+11110101100: -9
+11110101101: 49
+11110101110: -71
+11110101111: 18
+11110110000: -19
+11110110001: 38
+11110110010: -30
+11110110011: 69
+11110110100: 100
+11110110101: 57
+11110110110: -33
+11110110111: -12
+11110111000: 41
+11110111001: -81
+11110111010: 112
+11110111011: -117
+11110111100: -19
+11110111101: 113
+11110111110: 50
+11110111111: -10
+11111000000: 76
+11111000001: 20
+11111000010: 21
+11111000011: -28
+11111000100: 123
+11111000101: -122
+11111000110: 125
+11111000111: -125
+11111001000: 38
+11111001001: -62
+11111001010: -128
+11111001011: 62
+11111001100: -97
+11111001101: 37
+11111001110: -123
+11111001111: -98
+11111010000: 45
+11111010001: -43
+11111010010: -78
+11111010011: 108
+11111010100: 70
+11111010101: 46
+11111010110: -93
+11111010111: -32
+11111011000: 59
+11111011001: -84
+11111011010: 19
+11111011011: 21
+11111011100: 14
+11111011101: 44
+11111011110: -45
+11111011111: 97
+11111100000: 59
+11111100001: 116
+11111100010: 31
+11111100011: -96
+11111100100: -92
+11111100101: 34
+11111100110: 49
+11111100111: 61
+11111101000: -28
+11111101001: -22
+11111101010: 42
+11111101011: -117
+11111101100: -44
+11111101101: 121
+11111101110: 20
+11111101111: -53
+11111110000: 37
+11111110001: -61
+11111110010: 1
+11111110011: 77
+11111110100: 52
+11111110101: 64
+11111110110: -123
+11111110111: -29
+11111111000: -84
+11111111001: -38
+11111111010: -11
+11111111011: 115
+11111111100: -119
+11111111101: -80
+11111111110: -65
+11111111111: -43
+DISK CONTENT:
+PAGE 0: 105,27,13,19,61,0,37,-58,41,32,103,33,7,-104,-9,-120,-64,126,80,23,-3,-96,16,-118,-33,42,70,100,8,-31,-17,-43,67,85,-58,104,-112,-97,-13,-106,-116,-101,104,87,123,-35,-9,-18,-88,-118,-24,-50,45,-101,-52,-105,-88,-63,-24,66,120,119,-34,-27,54,-91,-86,-55,102,47,23,-35,-97,-59,-74,31,12,15,64,35,-101,23,-79,78,-84,-48,-30,-101,-31,-110,8,-71,90,117,-64,-104,-4,-43,23,94,44,47,-127,85,-124,-90,73,110,-101,-37,3,-102,76,112,-55,123,-6,-16,26,4,100,68,66,73,45,-101,12,107,-32,87,-12,93,16,-60,89,-118,-111,-76,96,29,41,94,48,21,67,-26,-11,-86,-106,12,-78,47,-66,-109,106,82,85,65,104,-22,70,-93,-87,33,99,-77,-8,-71,-4,85,43,-114,61,-80,102,31,92,88,34,-67,-61,-40,-87,-46,-92,125,-124,75,-101,95,-20,-115,36,67,82,104,122,111,-43,88,-61,51,119,-93,-1,9,-120,-126,69,9,63,-50,9,4,-67,-106,16,56,94,-118,-85,-46,-126,-3,-127,23,48,46,47,52,-122,-1,26,92,-22,-17,108,114,117,-70,-101,-58,113,105,-78,-102,-83,-12,-64,-3,-110,9,-105,-93,32,43
+PAGE 1: -3,-49,-1,-125,94,51,-76,41,-26,52,111,-64,110,1,-27,-66,112,92,-43,-38,78,123,92,72,101,-88,-121,-39,77,-123,-34,-74,73,112,78,-26,105,-47,-60,-116,67,62,-98,-102,35,64,110,89,-77,97,65,68,47,75,-112,73,36,27,88,-28,43,-61,50,-11,-86,-38,-88,28,-75,-15,127,-15,-1,-92,33,-12,-105,-83,50,57,-50,72,-4,-113,-18,-38,-6,96,19,125,91,61,108,-109,-52,-12,122,-60,15,-36,43,83,-85,115,28,-91,6,-101,-87,-43,-69,-101,21,107,-120,56,-28,42,68,40,-62,67,5,118,90,-38,-44,-49,-122,80,-78,-91,-72,-4,-122,-71,46,-68,-64,86,-36,1,-3,-124,-81,-108,-25,35,-78,-65,-32,16,5,-113,-19,88,120,37,-107,-54,51,-116,-83,123,-51,-71,-58,60,-118,-84,-82,53,-44,76,35,63,23,95,95,125,-71,-106,-111,-43,-48,76,7,-5,-80,64,-57,61,-78,-63,-13,-100,-33,-90,44,3,100,78,-63,121,-35,-117,-89,52,-98,51,29,-117,-93,-118,-53,-106,14,-63,88,74,35,8,15,17,38,-88,126,98,-24,-51,56,54,-78,51,-36,-78,100,-111,35,-31,-26,27,101,-5,-40,55,116,126,-60,-62,38,32,0,-31,98,-32
+PAGE 2: -57,58,-45,106,-28,-46,127,-31,26,25,-72,-87,-82,-125,-120,-57,104,22,-53,20,10,-51,-90,-77,68,93,38,104,93,126,93,109,-20,54,-91,-52,85,-80,122,-65,-7,44,-79,-3,89,44,117,-40,-17,92,78,91,-86,-61,115,-15,82,57,59,14,-79,61,-57,15,35,-124,66,-103,-64,-125,-31,100,27,25,-80,-76,-40,-38,-25,103,27,-5,-120,-114,112,123,-54,-65,-89,87,-33,91,88,-51,-54,110,102,-92,-80,100,46,106,-29,21,4,-18,116,8,-10,-46,65,35,-32,-76,0,27,-42,27,4,-7,111,-101,-128,44,19,127,-103,66,68,-125,-113,55,-84,108,-51,48,10,-47,76,8,84,78,-30,-36,4,61,62,89,-98,106,-69,-54,-53,36,-39,78,-123,-48,-39,121,92,-108,-6,-15,-53,124,-14,13,-72,127,-77,-108,-70,12,42,24,-92,-69,36,60,72,-34,-24,-24,80,123,-127,-1,-73,-125,-39,-80,-27,65,9,-99,32,-127,-26,84,76,-94,-25,-8,-111,116,48,-76,-81,-92,67,29,-37,-99,113,110,-121,-120,51,-86,-108,71,88,126,41,-85,-41,67,-59,113,94,-103,109,-125,-48,-58,103,67,-52,-98,105,-34,28,55,39,-11,-100,4,107,98,17,-93,-120,-16,61,75
+PAGE 3: 6,-77,120,-36,-41,-124,71,40,-90,104,55,123,111,-50,-47,-33,-22,55,-103,-54,43,-53,33,63,-18,-27,10,-53,119,64,-65,2,108,94,-85,-46,-10,106,-26,-47,-18,-104,16,5,-2,-46,-88,94,-99,47,37,105,-36,38,-66,-62,-97,33,108,-51,73,64,-80,44,-31,-126,109,71,-56,-101,84,-10,31,59,29,61,15,-41,-101,-51,-62,9,48,-46,114,-65,-118,0,85,-113,-34,-101,95,-117,-103,-74,0,39,-59,41,117,-98,-19,2,123,-126,16,-25,-64,25,-125,27,-20,54,7,48,17,-90,124,59,96,32,103,90,-103,-44,-47,-10,-11,-26,94,-98,44,-38,98,-78,-7,-37,37,-98,-45,19,-83,54,-125,10,72,-59,-102,-9,-58,9,-109,22,43,-92,-68,-42,23,70,3,103,-50,-44,-99,74,-52,78,-60,-96,-72,58,46,-128,38,-102,66,-63,97,73,-81,-95,14,72,100,-82,5,-63,-16,4,-117,72,-2,109,-89,-54,126,-44,12,-34,-69,-24,121,-71,91,36,-60,40,-70,-41,-31,-57,-122,55,-94,-128,-69,-101,13,37,64,-89,-52,-128,-47,13,-125,-104,7,126,-9,-88,-16,44,-98,99,9,-79,-113,22,-63,-80,-124,-45,-34,-44,39,29,-11,81,-63,3,30,47,-55,-55
+PAGE 4: -60,-49,42,63,117,47,3,-26,41,-70,44,81,-119,-46,122,83,53,-116,68,3,-110,21,115,85,-93,31,29,-117,-36,127,-124,-119,9,-108,-54,38,-118,111,-33,-7,98,-13,-38,-103,81,89,121,-106,-4,-52,-32,124,7,23,56,-78,-55,24,-122,-125,51,-57,-72,107,37,-66,33,57,-99,48,62,53,-1,-10,29,-20,125,34,101,90,1,-112,-105,-123,52,-114,120,40,95,-47,-14,-48,-64,11,71,45,-122,-75,27,82,65,-86,-106,-28,-63,-93,88,-51,73,-120,77,17,121,27,11,-81,-44,-21,27,64,-45,-25,98,-54,-126,103,65,-32,-4,-78,-112,121,121,75,77,-94,96,6,92,-91,-104,101,20,45,106,-54,12,59,-26,-72,-69,-127,-122,95,66,111,-50,12,127,-48,103,-33,55,28,-124,-79,60,104,-16,0,122,50,112,-105,122,-2,50,3,87,-62,46,19,62,91,74,-53,-19,-94,-101,-122,25,111,60,-62,-116,96,55,124,-79,-27,-15,26,-125,-41,124,59,-2,-91,-2,-121,52,-15,-78,-8,116,4,-22,71,-95,101,102,-27,57,113,7,0,58,82,-20,-112,44,111,22,-47,-68,-67,-119,66,44,26,84,118,-3,-122,61,25,-127,122,-94,70,92,17,79,73,2,-66
+PAGE 5: 50,104,-83,114,0,103,120,117,-60,-57,4,37,9,-64,71,-15,-118,30,-81,70,-33,24,-11,-122,-93,39,-124,48,-53,48,-100,-107,4,87,-37,31,83,75,-17,-47,-106,-19,-125,17,-109,-73,104,-28,76,104,-31,-80,106,-26,-103,-21,-111,-92,79,3,-80,14,-94,85,-40,93,12,-68,-53,118,-15,93,-37,45,108,-2,97,125,116,124,26,-23,58,-58,-9,82,21,118,4,11,69,28,-69,-116,109,-19,58,69,-64,8,-13,15,-13,59,22,-45,-21,104,-48,-90,70,20,-57,74,-31,-14,95,79,-36,-126,10,71,85,101,13,4,10,-119,-104,94,90,-98,-46,6,-93,-16,125,-71,-110,15,14,-118,-7,111,-5,1,32,-120,-61,-96,37,59,-93,-67,93,-10,-86,-123,-51,-73,-56,61,87,-69,-65,127,4,-68,124,81,-97,45,-63,82,73,59,-78,84,-65,-42,5,-125,-50,-115,68,-28,26,-67,-7,74,-38,109,-32,-85,-101,-45,-115,127,-117,98,47,114,-55,-100,51,-102,-76,-13,-69,-80,-59,17,-113,-30,100,99,85,26,-42,119,71,-90,11,62,9,-15,98,62,-74,-120,-114,-126,-21,-5,-120,123,39,-96,-69,-16,58,21,-99,-98,-124,68,-63,-47,-77,53,87,127,68,43,125,-39
+PAGE 6: 2,-107,-115,48,-73,71,-97,-78,-75,74,-10,-24,47,7,71,-65,-72,58,-40,92,-36,95,10,-9,-115,91,-26,-77,-125,-121,-93,-12,-101,-11,24,50,-112,75,-100,68,66,120,-78,114,3,38,75,-41,-51,116,12,-67,70,39,106,-97,12,-118,101,-24,-2,-110,99,92,59,-57,-23,78,71,-24,-27,113,-103,113,-91,-99,110,-25,84,-73,75,55,-126,51,-6,-89,102,-87,-123,105,-51,45,-111,-32,92,19,22,-125,66,36,101,-31,-97,122,-69,-47,123,-64,-107,61,-94,75,22,35,-79,-80,-13,114,8,68,69,-45,-106,122,123,-74,120,28,9,-95,-46,-125,119,-18,-76,67,-38,-98,14,-102,-11,28,-88,-104,117,-62,-68,78,112,-47,60,33,103,-99,21,80,-32,-106,-113,-75,-69,126,-99,51,-114,-111,-4,-45,-90,-61,30,105,96,18,40,-101,4,-55,122,80,117,-18,116,100,-111,-105,53,-43,73,88,119,-113,40,64,-47,15,-64,-61,-40,54,57,103,14,-50,-64,96,-27,-14,50,-115,-84,-29,71,-78,-71,-41,59,-32,-82,63,33,-50,-117,-45,25,-85,-123,127,-91,-125,-38,72,-81,14,-126,106,35,-78,-39,105,-61,-89,111,-43,-12,24,-19,98,103,84,62,-81,58,1,-13,-107
+PAGE 7: -106,-85,97,46,-38,-63,-36,66,62,-116,19,6,60,88,17,-17,78,106,28,-115,65,-76,-65,14,-123,87,-87,47,71,-8,37,-90,16,-62,-7,32,-127,-16,-93,-95,59,-58,-128,4,-31,28,-121,-16,-65,-91,12,47,-39,-85,-97,59,123,-50,-53,48,95,16,107,-63,-113,-93,-85,101,-65,52,112,-111,53,71,0,-51,-117,-94,43,11,-41,-64,4,-66,125,103,54,46,32,-82,-109,-59,-127,-13,102,69,42,-65,-14,-87,61,93,-123,-102,-17,-123,-91,92,-15,84,116,-100,-89,30,57,111,-49,56,-25,25,-62,97,55,-64,10,-53,-30,-71,-112,113,-51,-19,-88,-76,-70,98,-33,-98,-1,-56,13,-23,21,59,25,-43,41,42,42,13,49,-46,-95,-19,119,40,64,-44,95,-109,-126,-93,13,104,50,-53,86,117,-80,72,90,-45,-115,110,94,25,75,-77,-50,90,63,74,126,-45,114,81,8,-105,-53,108,49,0,86,-72,-82,111,14,90,-50,-87,-113,-76,78,56,99,-17,-112,-64,-94,-104,-51,-47,-29,44,-2,73,-36,-90,-78,-65,54,-116,34,-60,118,53,0,-118,-9,-55,-91,121,-93,-86,-118,116,-66,-96,-28,38,44,26,-75,107,-52,-104,-43,117,-2,23,-11,-71,115,55,103,93
+PAGE 8: -33,67,9,59,-86,77,72,-71,-98,21,-6,114,111,-93,9,-104,97,122,117,-99,-26,33,36,98,-25,-7,49,-47,84,55,-35,24,-93,-88,-96,115,103,-62,57,-123,44,71,-68,-31,109,84,-74,-38,99,-18,-111,-47,101,-122,-80,-32,29,-73,45,22,19,-125,-36,-41,103,-39,69,80,116,88,53,-103,21,9,-113,-106,-69,45,-8,-10,-5,53,-60,-74,111,-85,82,-82,23,-118,-19,116,-53,-33,26,124,-27,-121,34,-111,-102,1,-120,-67,-14,56,-103,45,-37,52,-33,45,-71,-128,12,62,51,-61,35,3,-61,7,62,-8,-4,-51,99,4,107,7,45,-37,-90,115,58,-33,-94,-29,-114,-64,107,-1,34,73,38,-91,103,46,59,126,80,-87,1,122,-99,-110,11,18,39,121,91,107,123,-80,25,36,-36,-35,-98,-15,-16,62,-120,63,38,-2,28,-89,-91,-119,28,83,25,-43,37,10,57,18,-65,-52,32,-18,-87,-11,107,-5,-71,84,1,34,-109,82,2,126,93,-26,-59,22,75,-114,26,-89,94,-47,-44,112,121,-69,87,-34,-59,35,-106,48,96,-43,-4,-109,9,59,-58,-42,5,-79,40,-43,55,-44,60,-41,-73,-116,-55,126,76,6,56,-47,103,53,-10,-72,46,122,-3,-33
+PAGE 9: 29,53,-24,-9,101,17,-23,96,21,-80,18,81,8,25,-99,-80,55,12,-70,-47,116,-15,-106,-23,-107,95,36,10,-20,56,-15,-119,-110,-103,-127,39,-127,110,77,-23,-35,23,37,98,-25,-60,0,50,-8,-127,-111,83,42,9,15,24,28,-55,29,39,88,39,-46,-64,5,-112,5,58,-91,-121,-6,-8,44,81,127,120,-114,72,-44,0,-22,106,113,-26,4,-49,-51,-123,-87,-26,-63,-97,-81,83,-122,10,-50,-84,100,-58,-69,-116,-26,20,4,-10,-90,84,-37,101,-36,2,-115,-52,-45,-84,95,116,-27,92,-121,26,-23,-8,-69,-117,29,-13,-36,-39,116,-83,-80,21,33,0,29,-42,24,87,79,-80,-39,-120,-36,-35,-13,-40,-39,-114,97,17,76,-112,96,-117,127,100,92,-123,49,-11,-53,44,-11,-98,46,-53,97,16,21,2,-110,-99,-31,-70,97,119,-49,32,-43,39,-115,63,-20,-26,-106,106,102,-44,111,-83,98,-65,-109,98,0,22,-89,31,110,-13,92,36,-19,37,21,85,109,105,-46,125,-6,25,-95,45,81,-85,67,13,-80,90,75,-16,24,26,71,-111,-55,117,105,71,29,67,33,-114,-50,-12,-124,28,-93,34,29,-99,-76,-29,61,-45,-42,-94,-109,79,-85,-75,115,55
+PAGE 10: -111,-106,-2,-115,77,91,106,70,-29,100,-47,-55,72,41,-77,79,122,-90,-33,42,-78,-83,123,101,-51,-27,-93,1,78,49,56,-17,31,84,-62,-93,15,58,-60,2,-115,-24,79,-5,-65,-90,38,-124,-66,-45,-123,47,102,-29,-70,-54,-5,-55,85,-96,-36,39,-100,111,-88,46,-47,68,-33,56,-99,-49,-126,-9,89,18,-127,-12,-2,118,16,-5,-87,52,-120,107,62,3,23,-41,-59,-67,109,-86,117,-26,36,61,-51,110,-32,-4,91,-2,102,-66,-96,80,25,-80,-57,-122,97,-59,-116,2,-109,-18,-93,-112,78,47,-18,-86,-73,16,120,-17,35,-8,-13,-107,6,33,-106,-21,-113,31,121,-112,-6,-117,-82,-122,123,106,57,115,71,-23,-43,16,-62,45,67,109,-33,31,69,-91,68,-96,53,88,-107,71,8,-36,-120,53,-52,-25,-22,-32,-116,6,120,55,-72,-101,37,-126,-128,-37,6,77,76,-38,-1,85,-91,-124,-65,28,-122,-49,35,40,-43,118,-112,118,-117,-32,119,-50,55,-95,73,101,-63,-18,87,-64,-109,43,-92,67,-117,42,82,8,-123,-7,-36,73,55,-67,6,-85,-23,-2,25,-62,-20,31,-98,-22,-31,30,48,63,29,-92,69,-13,124,123,-105,-108,54,116,42,22,109,102
+PAGE 11: 122,-65,59,32,-94,25,24,-123,73,125,-11,43,109,-124,-3,-63,70,-103,54,-26,-32,32,120,84,-47,-16,-109,69,-70,-108,118,-67,-119,-41,121,52,81,83,-68,44,124,43,-59,-7,-89,113,-10,-120,-98,-106,-82,-46,91,-112,-21,117,-74,-66,-10,5,-102,53,2,40,-112,92,104,-28,123,33,-5,68,-64,21,67,18,106,113,37,-78,-128,-63,56,72,77,91,-1,37,-97,26,-67,-37,70,-7,-80,48,40,-120,49,107,73,-112,-18,104,87,-36,28,102,-43,27,-97,89,119,110,-54,-76,16,20,-29,-80,89,27,-70,-108,-97,-102,50,-33,126,81,-95,64,-24,91,81,17,57,-87,62,93,-85,98,-64,-102,67,118,-32,25,-59,119,115,24,-11,-113,39,117,104,-121,52,-83,-43,11,-128,-36,10,109,123,2,-113,50,47,73,-48,-95,-102,57,-96,58,85,114,78,53,-72,-70,-77,-31,-91,-26,-54,-117,-39,52,2,85,50,-26,98,101,-63,-55,57,-115,-7,36,-49,63,-95,122,29,-3,-128,-128,-109,-64,-63,-67,-78,-111,-14,-95,-48,82,-39,9,-18,83,-8,-19,43,60,-119,13,73,-49,56,120,87,-34,58,121,71,-123,-98,-48,62,55,87,114,59,-128,-97,121,44,7,51,46
+PAGE 12: 24,71,102,30,-94,94,-91,-81,-122,-126,-55,72,-71,26,24,0,-37,24,-82,60,62,85,-44,-99,-32,8,67,-69,112,23,-97,-116,16,33,-16,21,-121,40,-116,51,-22,-26,-61,56,108,-34,113,-96,-33,-66,80,4,72,121,123,-92,-91,-20,-56,-4,22,88,-128,80,-3,-13,-92,-31,-95,56,50,36,36,5,58,98,-118,63,-111,-121,-119,-39,85,-63,81,-71,111,-100,-125,12,-68,92,-97,115,66,-3,24,29,104,27,55,-59,-84,118,23,-111,-119,-3,80,-15,66,-110,14,11,-11,30,21,108,115,-44,58,-13,-80,97,-103,-34,-114,65,47,37,95,-65,-77,-52,-38,-44,89,-100,-15,-106,-94,68,24,64,117,108,-18,62,-108,100,-108,17,48,51,-56,-110,91,98,-51,-80,35,23,68,-91,-110,-99,50,54,-75,24,-86,120,-124,-72,-105,-22,25,20,11,37,-113,40,-64,-53,52,-118,55,-38,7,52,-3,113,106,-17,-36,-5,-2,-29,1,67,-86,42,-117,-18,-94,26,-65,-74,43,-20,-73,86,15,-108,100,-3,-69,-30,44,-50,-56,-99,104,-115,-114,103,54,77,51,-59,-78,31,-23,75,1,6,-55,55,121,101,46,-39,-76,-100,-33,-15,-102,-82,3,27,38,88,48,55,-11,88
+PAGE 13: -85,4,-51,-56,-113,12,-24,43,-38,-27,99,17,107,28,-23,73,121,48,-125,98,13,-107,-116,64,58,-96,4,-45,-79,-83,18,-20,-11,117,-33,-9,-14,103,66,19,24,-52,-27,41,32,-1,-84,-114,-71,126,-10,-116,109,8,-4,-105,7,-39,123,99,37,29,-118,-38,48,67,-74,45,66,-76,-32,-75,-16,94,89,-107,31,31,122,69,108,-98,110,122,22,-33,50,2,2,96,101,-5,70,-8,-81,91,54,-53,-120,97,-23,89,-19,94,-25,93,68,121,-55,-72,-75,96,102,30,-118,121,-30,41,-80,75,55,14,110,92,54,-127,-70,113,117,-110,55,-75,82,-71,-54,119,49,98,-123,61,31,-126,-23,-88,-81,-8,37,-56,-14,25,103,-84,-88,-43,-4,-96,-7,-61,62,-101,110,-31,43,51,111,-89,-118,102,58,57,60,-103,71,61,57,-54,36,-105,71,127,94,-50,99,28,-56,107,28,-50,-9,116,22,23,55,-77,28,-108,54,-6,-52,-113,33,-73,-32,-47,11,63,57,-40,-77,45,90,33,-84,-14,24,96,0,-60,28,-102,123,-115,47,-55,-6,-13,18,6,31,37,57,-128,56,89,113,-10,89,-97,-56,40,31,93,32,-57,104,-91,-62,91,45,66,-7,54,54,-112,9,93
+PAGE 14: 116,15,71,-1,-88,-27,86,115,-122,-72,-29,97,-60,-7,-48,-72,97,43,76,-60,-116,106,-111,65,32,77,78,-10,-21,-117,-32,88,119,-49,-79,32,-47,-1,101,123,69,-52,64,27,112,-66,13,120,-60,73,-81,29,10,49,-113,114,29,73,-26,-85,5,1,-55,114,104,-118,106,13,-95,10,101,-38,100,-4,22,-59,107,16,61,-5,104,-85,-67,71,27,103,112,94,93,66,43,-96,-18,75,62,-97,-63,-95,44,-27,-97,76,-113,-112,5,4,44,39,-128,-36,81,-62,-64,-51,92,17,-72,30,-61,-90,-116,-1,3,123,-74,-101,-27,-2,-112,80,-98,-63,89,-88,9,68,30,-92,-104,-12,98,-85,-47,-110,20,5,55,58,33,66,46,-18,75,116,-24,-126,-127,123,-121,53,-9,-55,50,47,-32,-72,-112,-83,95,37,-72,-125,47,-120,-90,27,0,-41,20,33,90,-97,98,-25,-81,-21,54,19,-40,-22,-127,2,-86,-89,-63,27,74,62,57,26,-32,-85,-107,72,74,-51,49,-100,-13,-4,-24,75,-87,89,33,62,-64,2,20,98,39,-26,53,65,116,-88,45,30,47,122,-105,90,118,88,-63,81,71,-3,-42,-65,-59,116,17,-119,26,20,53,0,-5,114,95,53,62,63,44,54
+PAGE 15: -78,-66,-76,75,45,28,-37,-32,-56,59,-73,120,3,99,-70,51,-46,-108,-94,-118,-5,-97,7,-102,-47,-84,71,57,-47,37,6,5,-42,110,-61,8,101,30,-74,-81,-79,24,66,-70,81,-31,-116,29,64,-45,79,119,-121,100,-93,8,38,66,70,116,-8,-65,92,-111,-27,125,101,100,-5,-15,29,-19,-66,-10,-125,-114,-82,83,-47,-50,-58,-37,-38,102,-88,43,20,-30,-46,32,-113,-7,-80,114,48,-25,-6,-17,-83,-106,-103,-37,57,20,-77,-124,-114,65,66,-63,61,26,91,-10,-45,-66,-42,-57,-32,-5,35,-99,-56,-56,87,52,-105,-126,-63,86,-80,43,-20,95,16,-10,7,75,-75,-64,-84,-112,24,91,2,-66,-50,-114,97,-57,-128,-1,89,76,66,27,52,-13,-77,88,-4,111,-27,61,38,-64,-59,-64,99,-82,3,-20,-9,49,-71,18,-19,38,-30,69,100,57,-33,-12,41,-81,112,-117,-19,113,50,-10,76,20,21,-28,123,-122,125,-125,38,-62,-128,62,-97,37,-123,-98,45,-43,-78,108,70,46,-93,-32,59,-84,19,21,14,44,-45,97,59,116,31,-96,-92,34,49,61,-28,-22,42,-117,-44,121,20,-53,37,-61,1,77,52,64,-123,-29,-84,-38,-11,115,-119,-80,-65,-43
+NUM PAGE FAULTS: 385
+NUM BYTES TRANSFERRED: 169984

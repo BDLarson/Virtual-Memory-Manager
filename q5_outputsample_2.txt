@@ -1,0 +1,124 @@
+DISK CONTENT:
+PAGE 0: -94,-42,-124,-79
+PAGE 1: 7,24,82,-114
+PAGE 2: -38,98,-106,71
+PAGE 3: 30,99,-43,67
+PAGE 4: 48,-67,-113,-105
+PAGE 5: -84,114,-34,-1
+PAGE 6: -95,-34,101,83
+PAGE 7: 111,-86,23,40
+PAGE 8: 93,111,62,-73
+PAGE 9: 85,97,81,30
+PAGE 10: -66,-119,30,71
+PAGE 11: 78,-21,5,86
+PAGE 12: -45,36,-126,-56
+PAGE 13: 0,15,64,-99
+PAGE 14: 86,96,-52,35
+PAGE 15: 120,49,118,86
+RANDOM TRANSACTIONS:
+Read transaction for logical address: 011001
+Bringing page 6 into frame 0
+RAM: 0001 --> -34
+Write transaction for logical address: 011110
+Bringing page 7 into frame 1
+RAM: 0110 <-- -112
+Read transaction for logical address: 100111
+Bringing page 9 into frame 2
+RAM: 1011 --> 30
+Write transaction for logical address: 100010
+Bringing page 8 into frame 3
+RAM: 1110 <-- -92
+Read transaction for logical address: 001000
+Evicting page 6 (NOT DIRTY)
+Bringing page 2 into frame 0
+RAM: 0000 --> -38
+Write transaction for logical address: 010010
+Evicting page 7
+Bringing page 4 into frame 1
+RAM: 0110 <-- 113
+Read transaction for logical address: 000011
+Evicting page 9 (NOT DIRTY)
+Bringing page 0 into frame 2
+RAM: 1011 --> -79
+Write transaction for logical address: 010100
+Evicting page 8
+Bringing page 5 into frame 3
+RAM: 1100 <-- 102
+Read transaction for logical address: 000000
+Page 0 is in memory
+RAM: 1000 --> -94
+Write transaction for logical address: 010110
+Page 5 is in memory
+RAM: 1110 <-- 1
+Read transaction for logical address: 010111
+Page 5 is in memory
+RAM: 1111 --> -1
+Write transaction for logical address: 100110
+Evicting page 2 (NOT DIRTY)
+Bringing page 9 into frame 0
+RAM: 0010 <-- -121
+Read transaction for logical address: 011010
+Evicting page 4
+Bringing page 6 into frame 1
+RAM: 0110 --> 101
+Write transaction for logical address: 100101
+Page 9 is in memory
+RAM: 0001 <-- 95
+Read transaction for logical address: 010100
+Page 5 is in memory
+RAM: 1100 --> 102
+Write transaction for logical address: 011001
+Page 6 is in memory
+RAM: 0101 <-- 36
+Read transaction for logical address: 000111
+Evicting page 0 (NOT DIRTY)
+Bringing page 1 into frame 2
+RAM: 1011 --> -114
+Write transaction for logical address: 000001
+Evicting page 5
+Bringing page 0 into frame 3
+RAM: 1101 <-- 16
+Read transaction for logical address: 110000
+Evicting page 9
+Bringing page 12 into frame 0
+RAM: 0000 --> -45
+Write transaction for logical address: 001011
+Evicting page 6
+Bringing page 2 into frame 1
+RAM: 0111 <-- -19
+MEMORY CONTENT:
+0000: -45
+0001: 36
+0010: -126
+0011: -56
+0100: -38
+0101: 98
+0110: -106
+0111: -19
+1000: 7
+1001: 24
+1010: 82
+1011: -114
+1100: -94
+1101: 16
+1110: -124
+1111: -79
+DISK CONTENT:
+PAGE 0: -94,16,-124,-79
+PAGE 1: 7,24,82,-114
+PAGE 2: -38,98,-106,-19
+PAGE 3: 30,99,-43,67
+PAGE 4: 48,-67,113,-105
+PAGE 5: 102,114,1,-1
+PAGE 6: -95,36,101,83
+PAGE 7: 111,-86,-112,40
+PAGE 8: 93,111,-92,-73
+PAGE 9: 85,95,-121,30
+PAGE 10: -66,-119,30,71
+PAGE 11: 78,-21,5,86
+PAGE 12: -45,36,-126,-56
+PAGE 13: 0,15,64,-99
+PAGE 14: 86,96,-52,35
+PAGE 15: 120,49,118,86
+NUM PAGE FAULTS: 14
+NUM BYTES TRANSFERRED: 88
